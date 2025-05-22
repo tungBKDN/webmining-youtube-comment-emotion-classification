@@ -1,0 +1,28 @@
+import pandas as pd
+
+# Constants
+START_IDX = 0  # replace with your actual start index
+END_IDX = 100  # replace with your actual end index
+
+# Example stopword list (replace with your actual list)
+stopwords = [
+   "the", "is", "at", "which", "on", "and", "a", "an"
+]
+# Order stopwords backward
+stopwords = sorted(stopwords, reverse=True)
+
+# Example: Load your DataFrame (replace with your actual file path)
+df = pd.read_csv('../data/labeled.csv')  # assumes a column 'comment'
+
+def remove_stopwords(text, stopwords):
+   words = text.split()
+   filtered = [word for word in words if word.lower() not in stopwords]
+   return ' '.join(filtered)
+
+# Apply stopword removal for rows in the specified range
+for idx in range(START_IDX, END_IDX):
+   if idx < len(df):
+      df.at[idx, 'comment'] = remove_stopwords(df.at[idx, 'comment'], stopwords)
+
+# Save the result (optional)
+df.to_csv('comments_no_stopwords.csv', index=False)

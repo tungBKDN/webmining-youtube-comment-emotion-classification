@@ -6282,16 +6282,17 @@ scared,A,@A,5.0,1.0,True,5.0,cảm thấy bất an mỗi khi trời tối,bất 
 scared,A,@A,5.0,1.0,True,5.0,thức ăn sạch giờ thành hàng hiếm,thức ăn sạch thành hàng hiếm
 scared,A,@A,5.0,1.0,True,5.0,mỗi lần nghe tin tức là một lần sợ,mỗi lần nghe tin tức là sợ
 scared,A,@A,5.0,1.0,True,5.0,sợ phải chứng kiến mọi thứ sụp đổ,sợ chứng kiến mọi thứ sụp đổ
-suprised,A,@A,4.0,1.0,True,4.0,không ngờ giáo viên lại dạy theo kiểu này,khong ngo giao vien lai day theo kieu nay
-suprised,A,@A,4.0,1.0,True,4.0,bài kiểm tra quá khác so với những gì học,bai kiem tra qua khac so voi nhung gi hoc
-suprised,A,@A,4.0,1.0,True,4.0,giáo trình năm nay thay đổi nhiều quá,giao trinh nam nay thay doi nhieu qua
-suprised,A,@A,4.0,1.0,True,4.0,không nghĩ học sinh lớp dưới lại giỏi vậy,khong nghi hoc sinh lop duoi lai gioi vay
-suprised,A,@A,4.0,1.0,True,4.0,mới đọc tin mà bất ngờ thật sự,moi doc tin ma bat ngo that su
-suprised,A,@A,4.0,1.0,True,4.0,cứ tưởng chính phủ sẽ im lặng ai ngờ cuốn thế,cu tuong chinh phu se im lang ai ngo cuon the
-suprised,A,@A,4.0,1.0,True,4.0,giảng viên đó lên lớp kiểu quá mới lạ,giang vien do len lop kieu qua moi la
-suprised,A,@A,4.0,1.0,True,4.0,cách giải thích nghe lạ tai mà thuyết phục,cach giai thich nghe la tai ma thuyet phuc
-suprised,A,@A,4.0,1.0,True,4.0,không nghĩ chương trình học năm nay nặng vậy,khong nghi chuong trinh hoc nam nay nang vay
-suprised,A,@A,4.0,1.0,True,4.0,học sinh lớp nhỏ mà trả lời mượt thật,hoc sinh lop nho ma tra loi muot that
+suprised,A,@A,4.0,1.0,True,4.0,không ngờ giáo viên lại dạy theo kiểu này,không ngờ giáo viên lại dạy theo kiểu này
+suprised,A,@A,4.0,1.0,True,4.0,bài kiểm tra quá khác so với những gì học,bài kiểm tra quá khác so với những gì học
+suprised,A,@A,4.0,1.0,True,4.0,giáo trình năm nay thay đổi nhiều quá,giáo trình năm nay thay đổi nhiều
+suprised,A,@A,4.0,1.0,True,4.0,không nghĩ học sinh lớp dưới lại giỏi vậy,không nghĩ học sinh lớp dưới giỏi
+suprised,A,@A,4.0,1.0,True,4.0,mới đọc tin mà bất ngờ thật sự,đọc tin bất ngờ
+suprised,A,@A,4.0,1.0,True,4.0,cứ tưởng chính phủ sẽ im lặng ai ngờ cuốn thế,tưởng chính phủ im lặng ai ngờ cuốn
+suprised,A,@A,4.0,1.0,True,4.0,giảng viên đó lên lớp kiểu quá mới lạ,giảng viên lên lớp mới lạ
+suprised,A,@A,4.0,1.0,True,4.0,cách giải thích nghe lạ tai mà thuyết phục,giải thích nghe lạ tai thuyết phục
+suprised,A,@A,4.0,1.0,True,4.0,không nghĩ chương trình học năm nay nặng vậy,chương trình học năm nay nặng
+suprised,A,@A,4.0,1.0,True,4.0,đề thi năm nay khó hơn năm ngoái nhiều,đề thi năm nay khó hơn năm ngoái
+suprised,A,@A,4.0,1.0,True,4.0,học sinh lớp nhỏ mà trả lời mượt thật,học sinh lớp nhỏ trả lời mượt
 suprised,A,@A,4.0,1.0,True,4.0,nghe phát biểu mới của bộ trưởng mà bất ngờ thật,nghe phat bieu moi cua bo truong ma bat ngo that
 suprised,A,@A,4.0,1.0,True,4.0,tin tức vừa rồi không ai nghĩ sẽ xảy ra,tin tuc vua roi khong ai nghi se xay ra
 suprised,A,@A,4.0,1.0,True,4.0,chính trị giờ đi nước cờ quá táo bạo,chinh tri gio di nuoc co qua tao bao
@@ -6322,3 +6323,44 @@ suprised,A,@A,4.0,1.0,True,4.0,nội dung chương trình học hiện đại gh
 suprised,A,@A,4.0,1.0,True,4.0,tin tức quá sốc không biết nói gì luôn,tin tuc qua soc khong biet noi gi luon
 suprised,A,@A,4.0,1.0,True,4.0,giảng viên trả lời chất lượng bất ngờ luôn,giang vien tra loi chat luong bat ngo luon
 suprised,A,@A,4.0,1.0,True,4.0,sự thay đổi này đúng là không ai lường trước,su thay doi nay dung la khong ai luong truoc
+suprised,A,@A,4.0,1.0,True,4.0,không ngờ bạn ấy lại thích mình,khong ngo ban ay lai thich minh
+suprised,A,@A,4.0,1.0,True,4.0,tự nhiên hiểu ra người đó tốt với mình biết bao,tu nhien hieu ra nguoi do tot voi minh biet bao
+suprised,A,@A,4.0,1.0,True,4.0,đánh game xong mà đột nhiên ngộ ra một chân lý,danh game xong ma dot nhien ngo ra mot chan ly
+suprised,A,@A,4.0,1.0,True,4.0,đồ họa game này đẹp không tưởng,do hoa game nay dep khong tuong
+suprised,A,@A,4.0,1.0,True,4.0,ai mà ngờ được crush cũng thích mình,ai ma ngo duoc crush cung thich minh
+suprised,A,@A,4.0,1.0,True,4.0,game này plot twist quá đỉnh luôn,game nay plot twist qua dinh luon
+suprised,A,@A,4.0,1.0,True,4.0,nghe một câu mà bừng tỉnh cả não,nghe mot cau ma bung tinh ca nao
+suprised,A,@A,4.0,1.0,True,4.0,bất ngờ vì người từng ghét mình giờ lại xin lỗi,bat ngo vi nguoi tung ghet minh gio lai xin loi
+suprised,A,@A,4.0,1.0,True,4.0,game chơi vui mà kết bất ngờ thật,game choi vui ma ket bat ngo that
+suprised,A,@A,4.0,1.0,True,4.0,bạn thân tỏ tình lúc không ngờ nhất,ban than to tinh luc khong ngo nhat
+suprised,A,@A,4.0,1.0,True,4.0,tưởng chia tay rồi ai ngờ quay lại,tuong chia tay roi ai ngo quay lai
+suprised,A,@A,4.0,1.0,True,4.0,đọc một dòng status mà tỉnh cả người,doc mot dong status ma tinh ca nguoi
+suprised,A,@A,4.0,1.0,True,4.0,không ngờ bạn ấy hiểu mình đến vậy,khong ngo ban ay hieu minh den vay
+suprised,A,@A,4.0,1.0,True,4.0,ai ngờ một game lại dạy mình điều sâu sắc như vậy,ai ngo mot game lai day minh dieu sau sac nhu vay
+suprised,A,@A,4.0,1.0,True,4.0,bạn cũ inbox lại làm mình rối quá,ban cu inbox lai lam minh roi qua
+suprised,A,@A,4.0,1.0,True,4.0,không nghĩ một người lạ lại chia sẻ chân thành vậy,khong nghi mot nguoi la lai chia se chan thanh vay
+suprised,A,@A,4.0,1.0,True,4.0,trò chơi đơn giản mà sâu sắc kinh khủng,tro choi don gian ma sau sac kinh khung
+suprised,A,@A,4.0,1.0,True,4.0,crush thả tym một bài cũ bất ngờ ghê,crush tha tym mot bai cu bat ngo ghe
+suprised,A,@A,4.0,1.0,True,4.0,mỗi lần chơi game lại học được gì đó moi moi,moi lan choi game lai hoc duoc gi do moi moi
+suprised,A,@A,4.0,1.0,True,4.0,ai dè nói yêu thật luôn rồi,ai de noi yeu that luon roi
+suprised,A,@A,4.0,1.0,True,4.0,nhìn lại mới thấy mình đã thay đổi,nhin lai moi thay minh da thay doi
+suprised,A,@A,4.0,1.0,True,4.0,trong game thấy nhân vật phản diện lại đúng quá,trong game thay nhan vat phan dien lai dung qua
+suprised,A,@A,4.0,1.0,True,4.0,không nghĩ mình lại buông được người đó,khong nghi minh lai buong duoc nguoi do
+suprised,A,@A,4.0,1.0,True,4.0,bạn ấy inbox cảm ơn làm mình xúc động,ban ay inbox cam on lam minh xuc dong
+suprised,A,@A,4.0,1.0,True,4.0,kịch bản game làm mình rớt nước mắt,kich ban game lam minh rot nuoc mat
+suprised,A,@A,4.0,1.0,True,4.0,tưởng là chia xa ai ngờ gặp lại,tương là chia xa ai ngờ gặp lại
+suprised,A,@A,4.0,1.0,True,4.0,game này đồ họa mà gameplay cũng bất ngờ,game nay do hoa ma gameplay cung bat ngo
+suprised,A,@A,4.0,1.0,True,4.0,một câu nói làm mình nhìn cuộc sống khác,mot cau noi lam minh nhin cuoc song khac
+suprised,A,@A,4.0,1.0,True,4.0,không tin nổi là crush cũng để ý mình,khong tin noi la crush cung de y minh
+suprised,A,@A,4.0,1.0,True,4.0,bất ngờ vì ai đó vẫn nhớ ngày sinh nhật mình,bat ngo vi ai do van nho ngay sinh nhat minh
+suprised,A,@A,4.0,1.0,True,4.0,bạn thân lộ chuyện crush mình luôn,ban than lo chuyen crush minh luon
+suprised,A,@A,4.0,1.0,True,4.0,chơi xong map này mà suy nghĩ nhiều thật,choi xong map nay ma suy nghi nhieu that
+suprised,A,@A,4.0,1.0,True,4.0,lần đầu thấy ai chơi game thông minh vậy,lan dau thay ai choi game thong minh vay
+suprised,A,@A,4.0,1.0,True,4.0,bạn ấy trả lời tin nhắn làm mình đứng hình,ban ay tra loi tin nhan lam minh dung hinh
+suprised,A,@A,4.0,1.0,True,4.0,cảm giác như giác ngộ điều gì lớn lắm,cam giac nhu giac ngo dieu gi lon lam
+suprised,A,@A,4.0,1.0,True,4.0,trò chơi đơn giản mà chạm tới tim,tro choi don gian ma cham toi tim
+suprised,A,@A,4.0,1.0,True,4.0,cứ tưởng game nhàm ai ngờ cuốn vãi,cu tuong game nham ai ngo cuon vai
+suprised,A,@A,4.0,1.0,True,4.0,không ngờ bạn ấy nhớ từng chuyện nhỏ như vậy,khong ngo ban ay nho tung chuyen nho nhu vay
+suprised,A,@A,4.0,1.0,True,4.0,đọc được một comment mà thay đổi luôn suy nghĩ,doc duoc mot comment ma thay doi luon suy nghi
+suprised,A,@A,4.0,1.0,True,4.0,bạn ấy hiểu mình hơn cả mình luôn,ban ay hieu minh hon ca minh luon
+suprised,A,@A,4.0,1.0,True,4.0,trong game thấy phản diện đúng quá nên giật mình,trong game thay phan dien dung qua nen giat minh
