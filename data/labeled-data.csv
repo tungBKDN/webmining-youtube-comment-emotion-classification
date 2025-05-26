@@ -6585,3 +6585,675 @@ angry,A,@A,3.0,1.0,True,3.0,tôi tức vì họ chỉ biết đổ lỗi, tuc vi
 angry,A,@A,3.0,1.0,True,3.0,đội bóng không chịu thay đổi tư duy, doi bong khong chiu thay doi tu duy
 angry,A,@A,3.0,1.0,True,3.0,chiến tranh chỉ mang lại đau thương, chien tranh chi mang lai dau thuong
 angry,A,@A,3.0,1.0,True,3.0,thực phẩm độc mà vẫn được bày bán, thuc pham doc van duoc bay ban
+worried,A,@A,5.0,1.0,True,5.0,đường đến trường con đi qua cầu tre sợ trơn trượt ngày mưa,đường đến trường con đi qua cầu tre sợ trơn trượt ngày mưa
+worried,A,@A,5.0,1.0,True,5.0,con tôi ho mấy ngày không dứt tôi lo quá,con ho mấy ngày không dứt lo quá
+worried,A,@A,5.0,1.0,True,5.0,trời báo bão mà nhà tôi lại nằm gần biển,trời báo bão nhà nằm gần biển
+worried,A,@A,5.0,1.0,True,5.0,dạo này khí hậu thay đổi thất thường con hay bị ốm,khí hậu thay đổi thất thường con hay bị ốm
+worried,A,@A,5.0,1.0,True,5.0,tối qua gió lớn quá tôi không ngủ được lo mái bay,tối qua gió lớn không ngủ được lo mái bay
+worried,A,@A,5.0,1.0,True,5.0,con bé cứ sốt về đêm làm tôi không yên lòng,con bé sốt đêm làm không yên lòng
+worried,A,@A,5.0,1.0,True,5.0,năm nay hạn hán kéo dài không biết có đủ nước canh tác không,năm hạn hán kéo dài không biết đủ nước canh tác
+worried,A,@A,5.0,1.0,True,5.0,mấy hôm nay mưa lớn liên tục sợ đất lở,mấy hôm mưa lớn liên tục sợ đất lở
+worried,A,@A,5.0,1.0,True,5.0,con trai mới vào lớp một tôi lo cháu chưa quen trường lớp,con trai vào lớp lo cháu chưa quen trường lớp
+worried,A,@A,5.0,1.0,True,5.0,cơn bão tới mạnh quá sợ cây đổ đè lên nhà,cơn bão mạnh sợ cây đổ đè nhà
+worried,A,@A,5.0,1.0,True,5.0,không biết mùa đông năm nay rét cỡ nào con lại viêm phổi,không biết mùa đông rét cỡ nào con viêm phổi
+worried,A,@A,5.0,1.0,True,5.0,nghe tin bão đổ bộ mà lòng cứ bồn chồn,nghe tin bão đổ bộ lòng bồn chồn
+worried,A,@A,5.0,1.0,True,5.0,bé nhà tôi bị tiêu chảy ba ngày rồi lo quá,bé bị tiêu chảy ba ngày lo quá
+worried,A,@A,5.0,1.0,True,5.0,trời nóng bất thường không biết ảnh hưởng gì đến cây trồng,trời nóng bất thường không biết ảnh hưởng cây trồng
+worried,A,@A,5.0,1.0,True,5.0,tối qua giông sét lớn quá lo điện chập,tối qua giông sét lớn lo điện chập
+worried,A,@A,5.0,1.0,True,5.0,mỗi khi mưa lớn là khu tôi lại ngập nước lo trôi đồ đạc,mưa lớn khu ngập nước lo trôi đồ đạc
+worried,A,@A,5.0,1.0,True,5.0,con gái đang tuổi dậy thì hay khó chịu tôi lo không hiểu con,con gái tuổi dậy thì hay khó chịu lo không hiểu con
+worried,A,@A,5.0,1.0,True,5.0,thấy tin băng tan ở cực tôi lo cho tương lai bọn trẻ,thấy tin băng tan cực lo tương lai bọn trẻ
+worried,A,@A,5.0,1.0,True,5.0,con tôi học xa nhà tôi lo mỗi khi trái gió trở trời,con học xa nhà lo trái gió trở trời
+worried,A,@A,5.0,1.0,True,5.0,không biết gió mùa tới có làm gãy cây cạnh nhà không,không biết gió mùa tới làm gãy cây cạnh nhà
+worried,A,@A,5.0,1.0,True,5.0,con nhỏ biếng ăn mãi không tăng cân tôi lo quá,con nhỏ biếng ăn không tăng cân lo quá
+worried,A,@A,5.0,1.0,True,5.0,lo mất điện giữa bão rồi không bơm được nước sinh hoạt,lo mất điện bão không bơm nước sinh hoạt
+worried,A,@A,5.0,1.0,True,5.0,sáng nay mưa to gió lớn con vẫn phải đi học tôi lo vô cùng,sáng mưa to gió lớn con đi học lo vô cùng
+worried,A,@A,5.0,1.0,True,5.0,năm nay hạn mặn sớm quá sợ không có nước tưới lúa,năm hạn mặn sớm sợ không nước tưới lúa
+worried,A,@A,5.0,1.0,True,5.0,trẻ con chơi ngoài đường nguy hiểm quá mà không ai trông,trẻ con chơi ngoài đường nguy hiểm không ai trông
+worried,A,@A,5.0,1.0,True,5.0,con hay bị dị ứng mỗi khi trời trở lạnh tôi rất lo,con bị dị ứng trời trở lạnh rất lo
+worried,A,@A,5.0,1.0,True,5.0,mưa lớn thế này sợ lũ về bất ngờ,mưa lớn sợ lũ về bất ngờ
+worried,A,@A,5.0,1.0,True,5.0,nhiệt độ ngày càng tăng lo cho sức khỏe người già,nhiệt độ tăng lo sức khỏe người già
+worried,A,@A,5.0,1.0,True,5.0,con bị sốt cao ba hôm rồi tôi thực sự rất lo lắng,con bị sốt cao ba hôm thực sự lo lắng
+worried,A,@A,5.0,1.0,True,5.0,gió giật mạnh làm cây rung bần bật tôi sợ bị bật gốc,gió giật mạnh làm cây rung bần bật sợ bật gốc
+worried,A,@A,5.0,1.0,True,5.0,tôi lo mùa màng năm nay thất bát vì mưa nhiều quá,lo mùa màng thất bát mưa nhiều
+worried,A,@A,5.0,1.0,True,5.0,bé con hay ho về đêm khiến tôi mất ngủ lo suốt,con hay ho đêm khiến mất ngủ lo suốt
+worried,A,@A,5.0,1.0,True,5.0,trời sắp nổi giông mà vẫn chưa về kịp con,ttrời sắp nổi giông chưa về kịp con
+worried,A,@A,5.0,1.0,True,5.0,mỗi khi nghe tiếng sấm là bé khóc to tôi lo quá,mỗi khi nghe tiếng sấm bé khóc to lo quá
+worried,A,@A,5.0,1.0,True,5.0,con trai tôi hay bị đau bụng không rõ nguyên nhân khiến tôi lo,con trai hay bị đau bụng không rõ nguyên nhân khiến lo
+worried,A,@A,5.0,1.0,True,5.0,thấy mây đen kéo đến dày đặc tôi lo có bão,thấy mây đen kéo đến dày đặc lo có bão
+worried,A,@A,5.0,1.0,True,5.0,bé nhà tôi hay nôn mỗi khi ăn tôi lo cháu có vấn đề,bé hay nôn mỗi khi ăn lo cháu có vấn đề
+worried,A,@A,5.0,1.0,True,5.0,trời chuyển mưa đột ngột mà con chưa mang áo mưa tôi lo,trời chuyển mưa đột ngột con chưa mang áo mưa lo
+worried,A,@A,5.0,1.0,True,5.0,cây trước nhà có dấu hiệu nghiêng tôi lo gió lớn sẽ đổ,cây trước nhà dấu hiệu nghiêng lo gió lớn đổ
+worried,A,@A,5.0,1.0,True,5.0,bé bị trầy xước sau khi té tôi lo nhiễm trùng,bé bị trầy xước té lo nhiễm trùng
+worried,A,@A,5.0,1.0,True,5.0,càng ngày thiên tai càng cực đoan tôi rất lo cho tương lai,càng ngày thiên tai cực đoan rất lo tương lai
+worried,A,@A,5.0,1.0,True,5.0,con gái cứ im lặng mãi không chịu nói tôi lo con có chuyện,con gái im lặng không nói lo con có chuyện
+worried,A,@A,5.0,1.0,True,5.0,lo lũ quét bất ngờ vì mưa rừng nhiều ngày rồi,lo lũ quét bất ngờ mưa rừng nhiều ngày
+worried,A,@A,5.0,1.0,True,5.0,trời trở lạnh đột ngột sợ con bị viêm họng,trời trở lạnh đột ngột sợ con bị viêm họng
+worried,A,@A,5.0,1.0,True,5.0,lo không đủ thuốc hạ sốt cho bé nếu tình trạng kéo dài,lo không đủ thuốc hạ sốt bé tình trạng kéo dài
+worried,A,@A,5.0,1.0,True,5.0,con trai đi học xa không có ai chăm lo từng bữa ăn,con trai đi học xa không ai chăm lo từng bữa ăn
+worried,A,@A,5.0,1.0,True,5.0,bão đêm qua mạnh quá sợ ảnh hưởng mái nhà,bão đêm qua mạnh sợ ảnh hưởng mái nhà
+worried,A,@A,5.0,1.0,True,5.0,thời tiết thất thường con dễ ốm tôi lo mãi,thời tiết thất thường con ốm lo mãi
+worried,A,@A,5.0,1.0,True,5.0,con bé chưa biết nói nhưng hay khóc đêm tôi rất lo,con bé chưa biết nói hay khóc đêm rất lo
+worried,A,@A,5.0,1.0,True,5.0,có tin báo mưa đá chiều nay tôi lo xe ngoài sân bị hỏng,tin báo mưa đá chiều lo xe ngoài sân hỏng
+worried,A,@A,5.0,1.0,True,5.0,bé sốt không hạ dù uống thuốc khiến tôi lo sốt ruột,bé sốt không hạ uống thuốc khiến lo sốt ruột
+worried,A,@A,5.0,1.0,True,5.0,cơn bão sắp tới được dự báo rất mạnh tôi lo không ngủ được,cơn bão dự báo mạnh lo không ngủ được
+worried,A,@A,5.0,1.0,True,5.0,mỗi khi trời trở lạnh là con tôi lại lên cơn hen suyễn,mỗi khi trời trở lạnh con lại lên cơn hen suyễn
+worried,A,@A,5.0,1.0,True,5.0,mưa quá nhiều khiến đường làng sạt lở tôi lo không về được,mưa nhiều khiến đường làng sạt lở lo không về được
+worried,A,@A,5.0,1.0,True,5.0,bé con ho suốt cả tuần nay tôi đang rất lo bé bị viêm phổi,con ho suốt tuần rất lo bị viêm phổi
+worried,A,@A,5.0,1.0,True,5.0,nghe tin bão đổ bộ vào miền trung tôi lo cho họ hàng bên ấy,nghe tin bão đổ bộ miền trung lo họ hàng
+worried,A,@A,5.0,1.0,True,5.0,bé kêu đau bụng ban đêm tôi hoang mang không biết làm sao,bé kêu đau bụng ban đêm hoang mang không biết làm sao
+worried,A,@A,5.0,1.0,True,5.0,tôi lo năm nay mùa màng thất thu vì bão nhiều quá,lo năm mùa màng thất thu bão nhiều
+worried,A,@A,5.0,1.0,True,5.0,trời lạnh đột ngột mà con chưa tiêm ngừa tôi lo,ttrời lạnh đột ngột con chưa tiêm ngừa lo
+worried,A,@A,5.0,1.0,True,5.0,con bé ăn uống không ngon miệng cả tuần nay tôi rất lo,con bé ăn uống không ngon miệng tuần rất
+angry,A,@A,3.0,1.0,True,3.0,làm fan bao năm mà giờ phản bội thế,làm fan năm phản bội
+angry,A,@A,3.0,1.0,True,3.0,quá thất vọng về cách xử lý của đội bóng,thất vọng cách xử lý đội bóng
+angry,A,@A,3.0,1.0,True,3.0,đội chơi như vậy thì xứng đáng thua,đội chơi vậy xứng đáng thua
+angry,A,@A,3.0,1.0,True,3.0,chưa bao giờ thấy ca sĩ nào coi thường fan như vậy,ca sĩ coi thường fan
+angry,A,@A,3.0,1.0,True,3.0,một trò hề thật sự,một trò hề
+angry,A,@A,3.0,1.0,True,3.0,tẩy chay là điều cần thiết lúc này,tẩy chay điều cần thiết
+angry,A,@A,3.0,1.0,True,3.0,nghệ sĩ gì mà vô trách nhiệm vậy,nghệ sĩ vô trách nhiệm
+angry,A,@A,3.0,1.0,True,3.0,đội bóng làm fan thất vọng lần nữa,đội bóng làm fan thất vọng
+angry,A,@A,3.0,1.0,True,3.0,nói một đằng làm một nẻo,nói đằng làm nẻo
+angry,A,@A,3.0,1.0,True,3.0,mất hết niềm tin,mất niềm tin
+angry,A,@A,3.0,1.0,True,3.0,bán độ là không thể chấp nhận,bán độ không chấp nhận
+angry,A,@A,3.0,1.0,True,3.0,thiếu tôn trọng khán giả,thiếu tôn trọng khán giả
+angry,A,@A,3.0,1.0,True,3.0,lùm xùm vậy mà vẫn diễn được,lùm xùm vẫn diễn được
+angry,A,@A,3.0,1.0,True,3.0,chơi không đẹp thì sao thắng nổi,không đẹp sao thắng
+angry,A,@A,3.0,1.0,True,3.0,fan bị coi thường quá nhiều rồi,fan bị coi thường
+angry,A,@A,3.0,1.0,True,3.0,sự nghiệp đi xuống là do chính họ,sự nghiệp đi xuống do họ
+angry,A,@A,3.0,1.0,True,3.0,đừng đổ lỗi cho ai khác,đừng đổ lỗi
+angry,A,@A,3.0,1.0,True,3.0,càng nói càng thấy giả tạo,càng nói thấy giả tạo
+angry,A,@A,3.0,1.0,True,3.0,thiếu trung thực quá,thiếu trung thực
+angry,A,@A,3.0,1.0,True,3.0,không xứng đáng được tha thứ,không xứng đáng tha thứ
+angry,A,@A,3.0,1.0,True,3.0,ca sĩ như vậy không nên quay lại,ca sĩ không nên quay lại
+angry,A,@A,3.0,1.0,True,3.0,tự tay phá huỷ mọi thứ,tự tay phá huỷ
+angry,A,@A,3.0,1.0,True,3.0,hành xử như vậy là không thể chấp nhận,hành xử không chấp nhận
+angry,A,@A,3.0,1.0,True,3.0,đội bóng chỉ biết tiền,đội bóng biết tiền
+angry,A,@A,3.0,1.0,True,3.0,lúc cần thì im lặng,lúc cần im lặng
+angry,A,@A,3.0,1.0,True,3.0,không có ai đứng ra nhận trách nhiệm,không ai nhận trách nhiệm
+angry,A,@A,3.0,1.0,True,3.0,tự làm tự chịu,tự làm tự chịu
+angry,A,@A,3.0,1.0,True,3.0,cả đội đáng bị chỉ trích,cả đội bị chỉ trích
+angry,A,@A,3.0,1.0,True,3.0,không còn gì để bênh nữa rồi,không gì bênh
+angry,A,@A,3.0,1.0,True,3.0,chỉ giỏi nói mà không làm,giỏi nói không làm
+angry,A,@A,3.0,1.0,True,3.0,giả tạo từ trong ra ngoài,giả tạo trong ra ngoài
+angry,A,@A,3.0,1.0,True,3.0,fan trung thành bị bỏ rơi,fan trung thành bị bỏ rơi
+angry,A,@A,3.0,1.0,True,3.0,sống ảo quá mức,sống ảo quá mức
+angry,A,@A,3.0,1.0,True,3.0,tổn thương lòng tin của người hâm mộ,tổn thương lòng tin người hâm mộ
+angry,A,@A,3.0,1.0,True,3.0,lúc khó khăn thì không thấy đâu,khó khăn không thấy
+angry,A,@A,3.0,1.0,True,3.0,chỉ biết hưởng lợi,chỉ biết hưởng lợi
+angry,A,@A,3.0,1.0,True,3.0,kệ fan miễn có tiền,kệ fan miễn có tiền
+angry,A,@A,3.0,1.0,True,3.0,càng nổi tiếng càng tệ,càng nổi tiếng càng tệ
+angry,A,@A,3.0,1.0,True,3.0,phản bội tình cảm người theo dõi,phản bội tình cảm người theo dõi
+angry,A,@A,3.0,1.0,True,3.0,không có đạo đức nghề nghiệp,không đạo đức nghề nghiệp
+angry,A,@A,3.0,1.0,True,3.0,nổi tiếng nhờ scandal,nổi tiếng nhờ scandal
+angry,A,@A,3.0,1.0,True,3.0,không xứng là idol,không xứng idol
+angry,A,@A,3.0,1.0,True,3.0,chối bỏ trách nhiệm,chối bỏ trách nhiệm
+angry,A,@A,3.0,1.0,True,3.0,lừa dối công chúng,lừa dối công chúng
+angry,A,@A,3.0,1.0,True,3.0,sự thật bị che giấu,sự thật bị che giấu
+angry,A,@A,3.0,1.0,True,3.0,diễn mãi không biết ngượng,diễn không biết ngượng
+angry,A,@A,3.0,1.0,True,3.0,ngụy biện đủ kiểu,ngụy biện đủ kiểu
+angry,A,@A,3.0,1.0,True,3.0,tự tin thái quá,tự tin thái quá
+angry,A,@A,3.0,1.0,True,3.0,không chịu sửa sai,không chịu sửa sai
+angry,A,@A,3.0,1.0,True,3.0,bên ngoài khác xa bên trong,bên ngoài khác bên trong
+angry,A,@A,3.0,1.0,True,3.0,tưởng im lặng là xong chuyện,tưởng im lặng xong chuyện
+angry,A,@A,3.0,1.0,True,3.0,người hâm mộ không ngu đâu,người hâm mộ không ngu
+angry,A,@A,3.0,1.0,True,3.0,cố gắng bao biện,cố gắng bao biện
+angry,A,@A,3.0,1.0,True,3.0,chỉ giỏi diễn sâu,chỉ giỏi diễn sâu
+angry,A,@A,3.0,1.0,True,3.0,không tôn trọng nghề,không tôn trọng nghề
+angry,A,@A,3.0,1.0,True,3.0,bỏ bê trách nhiệm,bỏ bê trách nhiệm
+angry,A,@A,3.0,1.0,True,3.0,chỉ quan tâm danh tiếng,chỉ quan tâm danh tiếng
+angry,A,@A,3.0,1.0,True,3.0,từng ủng hộ nhưng giờ thất vọng,từng ủng hộ giờ thất vọng
+angry,A,@A,3.0,1.0,True,3.0,hành động thiếu suy nghĩ,hành động thiếu suy nghĩ
+angry,A,@A,3.0,1.0,True,3.0,phát ngôn gây sốc liên tục,phát ngôn gây sốc
+angry,A,@A,3.0,1.0,True,3.0,làm xấu hình ảnh nghệ sĩ,làm xấu hình ảnh nghệ sĩ
+angry,A,@A,3.0,1.0,True,3.0,không có gì để bảo vệ nữa rồi,không gì bảo vệ
+angry,A,@A,3.0,1.0,True,3.0,tự biến mình thành trò cười,tự biến mình trò cười
+angry,A,@A,3.0,1.0,True,3.0,bao năm hình tượng giờ tan nát,hình tượng tan nát
+angry,A,@A,3.0,1.0,True,3.0,tổn thương niềm tin,tổn thương niềm tin
+angry,A,@A,3.0,1.0,True,3.0,lừa dối suốt bao lâu,lừa dối bao lâu
+angry,A,@A,3.0,1.0,True,3.0,sống hai mặt,sống hai mặt
+angry,A,@A,3.0,1.0,True,3.0,không còn gì để nói nữa rồi,không gì nói
+angry,A,@A,3.0,1.0,True,3.0,cư xử thiếu chuyên nghiệp,cư xử thiếu chuyên nghiệp
+angry,A,@A,3.0,1.0,True,3.0,đến giờ vẫn chưa xin lỗi,chưa xin lỗi
+angry,A,@A,3.0,1.0,True,3.0,chạy theo scandal để nổi,chạy theo scandal nổi
+angry,A,@A,3.0,1.0,True,3.0,tự tay phá hủy uy tín,tự tay phá hủy uy tín
+angry,A,@A,3.0,1.0,True,3.0,lặp lại sai lầm cũ,lặp lại sai lầm
+angry,A,@A,3.0,1.0,True,3.0,cố chấp không chịu nhận sai,cố chấp không nhận sai
+angry,A,@A,3.0,1.0,True,3.0,diễn quá lố rồi,diễn quá lố
+angry,A,@A,3.0,1.0,True,3.0,im lặng không phải là giải pháp,im lặng không giải pháp
+angry,A,@A,3.0,1.0,True,3.0,không có sự tôn trọng nào ở đây,không tôn trọng
+angry,A,@A,3.0,1.0,True,3.0,đội bóng không có tinh thần chiến đấu,đội bóng không tinh thần chiến đấu
+angry,A,@A,3.0,1.0,True,3.0,ai cho phép bán thuốc giả trên thị trường,bán thuốc giả thị trường
+angry,A,@A,3.0,1.0,True,3.0,sữa cho trẻ mà cũng dám làm giả,sữa trẻ làm giả
+angry,A,@A,3.0,1.0,True,3.0,đúng là không có đạo đức kinh doanh,không đạo đức kinh doanh
+angry,A,@A,3.0,1.0,True,3.0,thuốc giả gây hại bao nhiêu người,thuốc giả gây hại người
+angry,A,@A,3.0,1.0,True,3.0,bọn này nên bị xử lý thật nặng,nên xử lý nặng
+angry,A,@A,3.0,1.0,True,3.0,có con nhỏ mà uống sữa giả thì sao chịu nổi,uống sữa giả sao chịu
+angry,A,@A,3.0,1.0,True,3.0,người bệnh bị lừa quá nhiều rồi,người bệnh bị lừa
+angry,A,@A,3.0,1.0,True,3.0,quá vô nhân đạo,quá vô nhân đạo
+angry,A,@A,3.0,1.0,True,3.0,buôn bán thuốc giả là tội ác,buôn bán thuốc giả tội ác
+angry,A,@A,3.0,1.0,True,3.0,sữa giả đầu độc thế hệ sau,sữa giả đầu độc thế hệ
+angry,A,@A,3.0,1.0,True,3.0,làm mẹ mà biết con uống sữa giả chắc điên,làm mẹ biết sữa giả điên
+angry,A,@A,3.0,1.0,True,3.0,phải truy cứu trách nhiệm tận cùng,truy cứu trách nhiệm
+angry,A,@A,3.0,1.0,True,3.0,quản lý nhà nước đang ở đâu rồi,quản lý nhà nước đâu
+angry,A,@A,3.0,1.0,True,3.0,không ai đứng ra xin lỗi cả,không ai xin lỗi
+angry,A,@A,3.0,1.0,True,3.0,bỏ tù hết những kẻ làm giả,bỏ tù kẻ làm giả
+angry,A,@A,3.0,1.0,True,3.0,tại sao lại để thuốc giả tràn lan,tại sao thuốc giả tràn lan
+angry,A,@A,3.0,1.0,True,3.0,sức khỏe người dân bị coi thường,sức khỏe người dân coi thường
+angry,A,@A,3.0,1.0,True,3.0,làm vậy có còn là con người không,có còn con người không
+angry,A,@A,3.0,1.0,True,3.0,không thể tha thứ,không tha thứ
+angry,A,@A,3.0,1.0,True,3.0,bé mới sinh đã bị ảnh hưởng do sữa giả,bé sinh bị ảnh hưởng sữa giả
+angry,A,@A,3.0,1.0,True,3.0,đây là tội ác không thể tha thứ,tội ác không tha thứ
+angry,A,@A,3.0,1.0,True,3.0,thất vọng vì truyền thông im lặng,thất vọng truyền thông im lặng
+angry,A,@A,3.0,1.0,True,3.0,hậu quả để lại quá lớn,hậu quả quá lớn
+angry,A,@A,3.0,1.0,True,3.0,lợi dụng lòng tin để trục lợi,lợi dụng lòng tin trục lợi
+angry,A,@A,3.0,1.0,True,3.0,một cú tát vào niềm tin người tiêu dùng,cú tát niềm tin người tiêu dùng
+angry,A,@A,3.0,1.0,True,3.0,giả mạo giấy tờ là hành vi phạm pháp,giả mạo giấy tờ phạm pháp
+angry,A,@A,3.0,1.0,True,3.0,bọn này nên bị truy tố hình sự,nên truy tố hình sự
+angry,A,@A,3.0,1.0,True,3.0,bao nhiêu trẻ em sẽ bị ảnh hưởng nữa,bao nhiêu trẻ em bị ảnh hưởng
+angry,A,@A,3.0,1.0,True,3.0,người nghèo là người bị tổn thương nhất,người nghèo bị tổn thương
+angry,A,@A,3.0,1.0,True,3.0,làm nhục danh dự hoa hậu,làm nhục danh dự hoa hậu
+angry,A,@A,3.0,1.0,True,3.0,tung tin bôi nhọ thùy tiên,tung tin bôi nhọ thùy tiên
+angry,A,@A,3.0,1.0,True,3.0,có bằng chứng không mà nói vậy,bằng chứng không nói vậy
+angry,A,@A,3.0,1.0,True,3.0,quá đáng khi chụp mũ người khác,chụp mũ người khác
+angry,A,@A,3.0,1.0,True,3.0,không thể chấp nhận trò bịa đặt,không chấp nhận bịa đặt
+angry,A,@A,3.0,1.0,True,3.0,bôi nhọ phụ nữ là hành vi hèn hạ,bôi nhọ phụ nữ hành vi hèn hạ
+angry,A,@A,3.0,1.0,True,3.0,bị vu oan mà vẫn im lặng chịu đựng,bị vu oan im lặng chịu đựng
+angry,A,@A,3.0,1.0,True,3.0,tấn công danh dự cá nhân không thể dung thứ,tấn công danh dự không dung thứ
+angry,A,@A,3.0,1.0,True,3.0,bạn không biết gì mà cũng nói,bạn không biết nói
+angry,A,@A,3.0,1.0,True,3.0,fan thùy tiên rất thất vọng,fan thùy tiên thất vọng
+angry,A,@A,3.0,1.0,True,3.0,phá hoại hình ảnh đại diện quốc gia,phá hoại hình ảnh quốc gia
+angry,A,@A,3.0,1.0,True,3.0,người nổi tiếng cũng là con người,người nổi tiếng là con người
+angry,A,@A,3.0,1.0,True,3.0,xâm phạm đời tư là sai,xâm phạm đời tư sai
+angry,A,@A,3.0,1.0,True,3.0,không có chứng cứ vẫn vu khống,không chứng cứ vu khống
+angry,A,@A,3.0,1.0,True,3.0,đừng dạy đời khi mình cũng không sạch,đừng dạy đời không sạch
+angry,A,@A,3.0,1.0,True,3.0,bịa đặt vì ghen ghét là hèn,bịa đặt ghen ghét hèn
+angry,A,@A,3.0,1.0,True,3.0,không thể tin vào báo chí nữa rồi,không tin báo chí
+angry,A,@A,3.0,1.0,True,3.0,các báo chỉ biết giật tít,các báo biết giật tít
+angry,A,@A,3.0,1.0,True,3.0,dựng chuyện không đúng sự thật,dựng chuyện không đúng
+angry,A,@A,3.0,1.0,True,3.0,chỉ giỏi vùi dập người nổi tiếng,vùi dập người nổi tiếng
+angry,A,@A,3.0,1.0,True,3.0,tội ác này phải bị lên án,tội ác bị lên án
+angry,A,@A,3.0,1.0,True,3.0,lên sóng chỉ để bôi nhọ,lên sóng bôi nhọ
+angry,A,@A,3.0,1.0,True,3.0,ghen ăn tức ở là nguồn cơn tất cả,ghen ăn tức ở nguồn cơn
+angry,A,@A,3.0,1.0,True,3.0,công lý nằm ở đâu trong vụ này,công lý đâu vụ này
+angry,A,@A,3.0,1.0,True,3.0,cả cộng đồng mạng đang tức giận,cộng đồng mạng tức giận
+angry,A,@A,3.0,1.0,True,3.0,đừng nghĩ im lặng là không ai biết,im lặng không ai biết
+angry,A,@A,3.0,1.0,True,3.0,hãy trả lại danh dự cho cô ấy,trả lại danh dự cô ấy
+angry,A,@A,3.0,1.0,True,3.0,việc này không thể để yên,việc này không để yên
+angry,A,@A,3.0,1.0,True,3.0,bịa chuyện rồi phủi tay,bịa chuyện phủi tay
+angry,A,@A,3.0,1.0,True,3.0,phải có người chịu trách nhiệm,phải người chịu trách nhiệm
+angry,A,@A,3.0,1.0,True,3.0,làm ăn thất đức như vậy,làm ăn thất đức
+angry,A,@A,3.0,1.0,True,3.0,không ai dám lên tiếng vì sợ liên lụy,không ai lên tiếng sợ liên lụy
+angry,A,@A,3.0,1.0,True,3.0,bôi nhọ để kiếm view là rẻ tiền,bôi nhọ kiếm view rẻ tiền
+angry,A,@A,3.0,1.0,True,3.0,báo chí bây giờ thật thất vọng,báo chí thất vọng
+angry,A,@A,3.0,1.0,True,3.0,xúc phạm phụ nữ là điều không thể tha,xúc phạm phụ nữ không tha
+angry,A,@A,3.0,1.0,True,3.0,bịa đặt để phá hoại sự nghiệp người khác,bịa đặt phá hoại sự nghiệp
+angry,A,@A,3.0,1.0,True,3.0,thùy tiên bị tổn thương quá nhiều,thùy tiên bị tổn thương
+angry,A,@A,3.0,1.0,True,3.0,ai đứng sau vụ bôi nhọ này,ai đứng sau bôi nhọ
+angry,A,@A,3.0,1.0,True,3.0,lòng tin công chúng bị phản bội,lòng tin công chúng phản bội
+angry,A,@A,3.0,1.0,True,3.0,không thể dung thứ nữa rồi,không dung thứ
+angry,A,@A,3.0,1.0,True,3.0,đừng để sự việc đi quá xa,đừng để sự việc xa
+angry,A,@A,3.0,1.0,True,3.0,phải làm rõ ai là người đứng sau vụ này,làm rõ ai đứng sau
+angry,A,@A,3.0,1.0,True,3.0,tiền thuế dân bị tham nhũng trắng trợn,tiền thuế dân tham nhũng trắng trợn
+angry,A,@A,3.0,1.0,True,3.0,dự án metro chưa chạy đã hỏng,metro chưa chạy đã hỏng
+angry,A,@A,3.0,1.0,True,3.0,tiêu hàng ngàn tỷ rồi vẫn chưa xong,tiêu ngàn tỷ chưa xong
+angry,A,@A,3.0,1.0,True,3.0,làm việc kiểu này sao đất nước phát triển,làm kiểu này sao phát triển
+angry,A,@A,3.0,1.0,True,3.0,lại một vụ ăn chặn ngân sách,lại vụ ăn chặn ngân sách
+angry,A,@A,3.0,1.0,True,3.0,metro chưa vận hành mà đã bong tróc,metro chưa vận hành bong tróc
+angry,A,@A,3.0,1.0,True,3.0,mỗi ngày nhìn công trình mục nát mà tức,công trình mục nát tức
+angry,A,@A,3.0,1.0,True,3.0,ai sẽ chịu trách nhiệm cho những thất thoát này,ai chịu trách nhiệm thất thoát
+angry,A,@A,3.0,1.0,True,3.0,lãng phí tiền thuế của dân,lãng phí tiền thuế dân
+angry,A,@A,3.0,1.0,True,3.0,đường ray rỉ sét trước ngày chạy thử,đường ray rỉ sét trước chạy thử
+angry,A,@A,3.0,1.0,True,3.0,quan chức chỉ biết chia chác ngân sách,quan chức chia chác ngân sách
+angry,A,@A,3.0,1.0,True,3.0,không thấy ai bị xử lý cả,không ai bị xử lý
+angry,A,@A,3.0,1.0,True,3.0,lòng tin người dân đang cạn kiệt,lòng tin người dân cạn kiệt
+angry,A,@A,3.0,1.0,True,3.0,dự án trăm năm vẫn chưa hoàn thành,dự án trăm năm chưa hoàn thành
+angry,A,@A,3.0,1.0,True,3.0,tiền dân đóng góp bị đốt sạch,tiền dân đóng góp bị đốt
+angry,A,@A,3.0,1.0,True,3.0,đổ lỗi cho thời tiết là vô trách nhiệm,đổ lỗi thời tiết vô trách nhiệm
+angry,A,@A,3.0,1.0,True,3.0,bao nhiêu năm vẫn chỉ có bản vẽ,bao nhiêu năm bản vẽ
+angry,A,@A,3.0,1.0,True,3.0,nói mãi mà không làm được gì,nói mãi không làm
+angry,A,@A,3.0,1.0,True,3.0,cứ mỗi năm lại xin thêm tiền,cứ mỗi năm xin thêm tiền
+angry,A,@A,3.0,1.0,True,3.0,dự án metro giờ như đống sắt vụn,metro giờ đống sắt vụn
+angry,A,@A,3.0,1.0,True,3.0,không thể chấp nhận sự yếu kém này,không chấp nhận sự yếu kém
+angry,A,@A,3.0,1.0,True,3.0,nhìn ga metro như bị bỏ hoang,ga metro bị bỏ hoang
+angry,A,@A,3.0,1.0,True,3.0,tham nhũng làm đất nước lụn bại,tham nhũng đất nước lụn bại
+angry,A,@A,3.0,1.0,True,3.0,báo cáo thì hoành tráng thực tế thì nát,báo cáo hoành tráng thực tế nát
+angry,A,@A,3.0,1.0,True,3.0,chạy thử chưa xong đã nứt vỡ,chạy thử chưa xong nứt vỡ
+angry,A,@A,3.0,1.0,True,3.0,quá thất vọng với cách làm việc này,thất vọng cách làm việc
+angry,A,@A,3.0,1.0,True,3.0,công trình tiền tỷ mà như đồ chơi,công trình tiền tỷ đồ chơi
+angry,A,@A,3.0,1.0,True,3.0,càng đầu tư càng mất trắng,đầu tư mất trắng
+angry,A,@A,3.0,1.0,True,3.0,làm dự án như đốt tiền,làm dự án đốt tiền
+angry,A,@A,3.0,1.0,True,3.0,không ai đứng ra nhận sai,không ai nhận sai
+angry,A,@A,3.0,1.0,True,3.0,toàn là tiền dân mồ hôi nước mắt,toàn tiền dân mồ hôi nước mắt
+angry,A,@A,3.0,1.0,True,3.0,metro chưa chạy mà đã dột nước,metro chưa chạy dột nước
+angry,A,@A,3.0,1.0,True,3.0,sơn tường bong tróc khắp nơi,sơn tường bong tróc
+angry,A,@A,3.0,1.0,True,3.0,các vị có còn lương tâm không,các vị còn lương tâm không
+angry,A,@A,3.0,1.0,True,3.0,làm xong rồi bỏ hoang cả năm,làm xong bỏ hoang năm
+angry,A,@A,3.0,1.0,True,3.0,người dân đã quá chán nản với các dự án,người dân chán nản dự án
+angry,A,@A,3.0,1.0,True,3.0,dân kêu trời mà chẳng ai nghe,dân kêu trời không ai nghe
+angry,A,@A,3.0,1.0,True,3.0,nợ công thì tăng công trình thì hỏng,nợ công tăng công trình hỏng
+angry,A,@A,3.0,1.0,True,3.0,dự án nghìn tỷ nhưng không ai đi,dự án nghìn tỷ không ai đi
+angry,A,@A,3.0,1.0,True,3.0,chạy thử rồi lại dừng vô thời hạn,chạy thử dừng vô thời hạn
+angry,A,@A,3.0,1.0,True,3.0,mỗi lần nghe báo cáo là muốn tức điên,nghe báo cáo muốn tức điên
+angry,A,@A,3.0,1.0,True,3.0,tốn tiền nhưng không có kết quả,tốn tiền không kết quả
+angry,A,@A,3.0,1.0,True,3.0,đầu tư để rồi bỏ xó,đầu tư bỏ xó
+angry,A,@A,3.0,1.0,True,3.0,có bao nhiêu người đút túi vụ này,bao nhiêu người đút túi
+angry,A,@A,3.0,1.0,True,3.0,lẽ ra metro đã phải hoạt động từ lâu,metro phải hoạt động từ lâu
+angry,A,@A,3.0,1.0,True,3.0,không hiểu sao lại chậm trễ mãi,không hiểu sao chậm trễ
+angry,A,@A,3.0,1.0,True,3.0,công trình quốc gia mà để nát bét,công trình quốc gia nát bét
+angry,A,@A,3.0,1.0,True,3.0,dự án kéo dài như vô tận,dự án kéo dài vô tận
+angry,A,@A,3.0,1.0,True,3.0,tôi không tin vào lời hứa nữa,tôi không tin lời hứa
+angry,A,@A,3.0,1.0,True,3.0,đường chưa đi đã lún,đường chưa đi lún
+angry,A,@A,3.0,1.0,True,3.0,thanh tra thì kết luận nhẹ nhàng,thanh tra kết luận nhẹ nhàng
+angry,A,@A,3.0,1.0,True,3.0,cả chục năm rồi chưa xong dự án,chục năm chưa xong dự án
+angry,A,@A,3.0,1.0,True,3.0,tiền ngân sách mất không lý do,tiền ngân sách mất không lý do
+angry,A,@A,3.0,1.0,True,3.0,không thể ngồi yên nhìn tiền bị phí phạm,không ngồi yên nhìn tiền phí phạm
+angry,A,@A,3.0,1.0,True,3.0,cần xử lý nghiêm vụ metro,cần xử lý nghiêm metro
+angry,A,@A,3.0,1.0,True,3.0,dự án đội vốn gấp ba lần,dự án đội vốn gấp ba
+angry,A,@A,3.0,1.0,True,3.0,dân không còn kiên nhẫn nữa rồi,dân không kiên nhẫn
+angry,A,@A,3.0,1.0,True,3.0,báo cáo đẹp đẽ nhưng thực tế thảm hại,báo cáo đẹp thực tế thảm hại
+angry,A,@A,3.0,1.0,True,3.0,có ai nghĩ cho dân không,có ai nghĩ cho dân không
+angry,A,@A,3.0,1.0,True,3.0,tôi thấy tức giận thay cho dân,tôi tức giận thay dân
+angry,A,@A,3.0,1.0,True,3.0,nhìn metro như công trình bỏ hoang,metro công trình bỏ hoang
+angry,A,@A,3.0,1.0,True,3.0,mỗi lần đi qua lại thêm chán nản,mỗi lần đi qua chán nản
+angry,A,@A,3.0,1.0,True,3.0,người dân bị xem thường quá lâu rồi,người dân bị xem thường
+angry,A,@A,3.0,1.0,True,3.0,đừng lãng phí thêm tiền nữa,đừng lãng phí tiền
+angry,A,@A,3.0,1.0,True,3.0,ngân sách đã cạn kiệt vì những dự án như thế,ngân sách cạn kiệt dự án như thế
+angry,A,@A,3.0,1.0,True,3.0,bao giờ thì có metro thật sự hoạt động,khi nào metro hoạt động
+angry,A,@A,3.0,1.0,True,3.0,tôi không muốn thấy báo cáo nữa,tôi không muốn thấy báo cáo
+angry,A,@A,3.0,1.0,True,3.0,nói mãi mà chẳng làm được gì,nói mãi không làm gì
+angry,A,@A,3.0,1.0,True,3.0,tiền thất thoát rồi ai chịu,trách nhiệm tiền thất thoát ai chịu
+angry,A,@A,3.0,1.0,True,3.0,ăn chặn tiền từ thiện là tội ác,ăn chặn tiền từ thiện tội ác
+angry,A,@A,3.0,1.0,True,3.0,làm sao họ có thể lấy tiền cứu trợ,làm sao lấy tiền cứu trợ
+angry,A,@A,3.0,1.0,True,3.0,dân đang khổ còn bị lừa tiền từ thiện,dân khổ bị lừa tiền từ thiện
+angry,A,@A,3.0,1.0,True,3.0,quá bức xúc với chuyện tiền cứu trợ bị ăn chặn,bức xúc tiền cứu trợ bị ăn chặn
+angry,A,@A,3.0,1.0,True,3.0,lòng tin đặt nhầm chỗ,lòng tin đặt nhầm chỗ
+angry,A,@A,3.0,1.0,True,3.0,người ta quyên góp vì tình thương mà họ lợi dụng,người ta quyên góp họ lợi dụng
+angry,A,@A,3.0,1.0,True,3.0,không thể tha thứ cho kẻ biển thủ tiền từ thiện,không tha thứ kẻ biển thủ tiền từ thiện
+angry,A,@A,3.0,1.0,True,3.0,tiền quyên góp không đến tay người cần,tiền quyên góp không đến tay người cần
+angry,A,@A,3.0,1.0,True,3.0,đã nghèo còn bị cướp mất hy vọng,nghèo bị cướp hy vọng
+angry,A,@A,3.0,1.0,True,3.0,có ai nghĩ đến nỗi đau của người nhận không,có ai nghĩ đến nỗi đau người nhận
+angry,A,@A,3.0,1.0,True,3.0,chỉ biết kêu gọi rồi im lặng,kêu gọi rồi im lặng
+angry,A,@A,3.0,1.0,True,3.0,công khai minh bạch là điều bắt buộc,công khai minh bạch bắt buộc
+angry,A,@A,3.0,1.0,True,3.0,lừa đảo lòng tốt của hàng triệu người,lừa đảo lòng tốt hàng triệu người
+angry,A,@A,3.0,1.0,True,3.0,tiền cứu trợ bị xài như tiền riêng,tiền cứu trợ xài như tiền riêng
+angry,A,@A,3.0,1.0,True,3.0,tôi cảm thấy bị xúc phạm thay cho người quyên góp,xúc phạm người quyên góp
+angry,A,@A,3.0,1.0,True,3.0,người nổi tiếng cũng phải có đạo đức,người nổi tiếng phải có đạo đức
+angry,A,@A,3.0,1.0,True,3.0,họ lấy tiền từ thiện mua nhà xe,họ lấy tiền từ thiện mua nhà xe
+angry,A,@A,3.0,1.0,True,3.0,đừng lấy danh nghĩa giúp đỡ để trục lợi,đừng lấy danh nghĩa giúp đỡ trục lợi
+angry,A,@A,3.0,1.0,True,3.0,tiền cứu trợ bị cất giấu không ai biết,tiền cứu trợ cất giấu không ai biết
+angry,A,@A,3.0,1.0,True,3.0,tôi mất niềm tin vào người làm từ thiện,tôi mất niềm tin người làm từ thiện
+angry,A,@A,3.0,1.0,True,3.0,kẻ ăn chặn cần bị xử lý nghiêm,kẻ ăn chặn bị xử lý nghiêm
+angry,A,@A,3.0,1.0,True,3.0,thật đáng xấu hổ khi làm điều đó với dân nghèo,xấu hổ làm điều đó dân nghèo
+angry,A,@A,3.0,1.0,True,3.0,mỗi đồng tiền từ thiện đều là nước mắt,mỗi đồng tiền từ thiện nước mắt
+angry,A,@A,3.0,1.0,True,3.0,lợi dụng thiên tai để trục lợi,lợi dụng thiên tai trục lợi
+angry,A,@A,3.0,1.0,True,3.0,bao nhiêu tiền quyên góp biến mất không dấu vết,tiền quyên góp biến mất
+angry,A,@A,3.0,1.0,True,3.0,ai kiểm soát số tiền ấy,ai kiểm soát tiền
+angry,A,@A,3.0,1.0,True,3.0,tôi không tin vào ai nữa sau vụ này,tôi không tin ai vụ này
+angry,A,@A,3.0,1.0,True,3.0,phải có cơ chế giám sát từ thiện,có cơ chế giám sát từ thiện
+angry,A,@A,3.0,1.0,True,3.0,người nhận cứu trợ xứng đáng được tôn trọng,người nhận cứu trợ xứng đáng tôn trọng
+angry,A,@A,3.0,1.0,True,3.0,đừng biến lòng tốt thành công cụ kiếm tiền,lòng tốt không công cụ kiếm tiền
+angry,A,@A,3.0,1.0,True,3.0,người làm sai cần bị vạch trần,làm sai bị vạch trần
+angry,A,@A,3.0,1.0,True,3.0,không thể che giấu sự thật mãi,không che giấu sự thật mãi
+angry,A,@A,3.0,1.0,True,3.0,đáng lẽ tiền đó đã giúp được bao nhiêu người,tiền đó giúp bao nhiêu người
+angry,A,@A,3.0,1.0,True,3.0,mọi người có quyền biết tiền đi đâu,mọi người quyền biết tiền đi đâu
+angry,A,@A,3.0,1.0,True,3.0,phải công bố đầy đủ thu chi từ thiện,công bố đầy đủ thu chi từ thiện
+angry,A,@A,3.0,1.0,True,3.0,không thể tin ai sau khi bị lừa,không thể tin ai bị lừa
+angry,A,@A,3.0,1.0,True,3.0,bao nhiêu nạn nhân chờ mãi không được giúp,bao nhiêu nạn nhân không được giúp
+angry,A,@A,3.0,1.0,True,3.0,chẳng lẽ tiền ấy bốc hơi,chẳng lẽ tiền bốc hơi
+angry,A,@A,3.0,1.0,True,3.0,từ thiện mà không minh bạch là lừa đảo,từ thiện không minh bạch lừa đảo
+angry,A,@A,3.0,1.0,True,3.0,tôi muốn biết sự thật về các khoản đóng góp,sự thật khoản đóng góp
+angry,A,@A,3.0,1.0,True,3.0,những người lợi dụng lòng tin đáng bị trừng trị,lợi dụng lòng tin bị trừng trị
+angry,A,@A,3.0,1.0,True,3.0,ăn chặn tiền từ thiện không khác gì ăn cướp,ăn chặn tiền từ thiện ăn cướp
+angry,A,@A,3.0,1.0,True,3.0,cần làm rõ mọi khoản thu chi từ thiện,làm rõ khoản thu chi từ thiện
+angry,A,@A,3.0,1.0,True,3.0,người ta gửi gắm hy vọng mà lại bị lừa,người gửi gắm hy vọng bị lừa
+angry,A,@A,3.0,1.0,True,3.0,tôi thấy ghê tởm những kẻ đó,ghê tởm những kẻ đó
+angry,A,@A,3.0,1.0,True,3.0,không thể để sự việc trôi qua dễ dàng,không để sự việc trôi qua
+angry,A,@A,3.0,1.0,True,3.0,hành động đó là phản bội lòng tin,hành động phản bội lòng tin
+angry,A,@A,3.0,1.0,True,3.0,phải xử phạt thật nặng,phải xử phạt nặng
+angry,A,@A,3.0,1.0,True,3.0,cần khởi tố những người biển thủ tiền từ thiện,khởi tố người biển thủ tiền từ thiện
+angry,A,@A,3.0,1.0,True,3.0,tôi rất đau lòng khi thấy chuyện này xảy ra,tôi đau lòng chuyện này
+angry,A,@A,3.0,1.0,True,3.0,đây là hành động không thể tha thứ,hành động không thể tha thứ
+angry,A,@A,3.0,1.0,True,3.0,làm mất danh dự của cả cộng đồng từ thiện,mất danh dự cộng đồng từ thiện
+angry,A,@A,3.0,1.0,True,3.0,bọn họ có còn lương tri không,bọn họ còn lương tri không
+angry,A,@A,3.0,1.0,True,3.0,ai sẽ trả lại công bằng cho dân,ai trả lại công bằng cho dân
+angry,A,@A,3.0,1.0,True,3.0,chúng tôi cần câu trả lời rõ ràng,cần câu trả lời rõ ràng
+angry,A,@A,3.0,1.0,True,3.0,từ thiện mà làm dơ bẩn vậy thì đừng làm,từ thiện dơ bẩn đừng làm
+angry,A,@A,3.0,1.0,True,3.0,công lý phải được thực thi,công lý được thực thi
+angry,A,@A,3.0,1.0,True,3.0,thật nhẫn tâm khi ăn tiền cứu trợ,nhẫn tâm ăn tiền cứu trợ
+angry,A,@A,3.0,1.0,True,3.0,mỗi người đóng góp bằng tất cả lòng tin,mỗi người đóng góp lòng tin
+angry,A,@A,3.0,1.0,True,3.0,chuyện này không thể chìm xuồng,không thể chìm xuồng
+angry,A,@A,3.0,1.0,True,3.0,họ không xứng đáng được tha thứ,họ không xứng đáng tha thứ
+angry,A,@A,3.0,1.0,True,3.0,mỗi đồng tiền đều mang trách nhiệm,mỗi đồng tiền mang trách nhiệm
+angry,A,@A,3.0,1.0,True,3.0,kẻ ăn chặn phải trả giá thật đắt,kẻ ăn chặn trả giá đắt
+angry,A,@A,3.0,1.0,True,3.0,cần luật rõ ràng để bảo vệ từ thiện,luật bảo vệ từ thiện
+angry,A,@A,3.0,1.0,True,3.0,không thể để kẻ xấu lợi dụng mãi,không để kẻ xấu lợi dụng
+angry,A,@A,3.0,1.0,True,3.0,hãy trả lại sự trong sạch cho từ thiện,trả lại trong sạch từ thiện
+angry,A,@A,3.0,1.0,True,3.0,một lần mất lòng tin là mãi mãi,mất lòng tin mãi mãi
+angry,A,@A,3.0,1.0,True,3.0,tôi không muốn thấy thêm vụ nào nữa,không muốn thấy vụ nữa
+angry,A,@A,3.0,1.0,True,3.0,mọi người cần tỉnh táo khi đóng góp,cần tỉnh táo khi đóng góp
+angry,A,@A,3.0,1.0,True,3.0,từ thiện là để cứu người chứ không phải lừa người,từ thiện cứu người không lừa người
+surprised,A,@A,4.0,1.0,True,4.0,không thể tin em ấy tự học mà đạt thủ khoa,không tin em tự học đạt thủ khoa
+surprised,A,@A,4.0,1.0,True,4.0,em học trong hoàn cảnh khó khăn mà vẫn giỏi thế,em học hoàn cảnh khó khăn vẫn giỏi
+surprised,A,@A,4.0,1.0,True,4.0,quá bất ngờ vì em ấy không có internet mà vẫn đậu đại học,bất ngờ em không internet vẫn đậu đại học
+surprised,A,@A,4.0,1.0,True,4.0,em nhỏ đi bộ 10km đến trường mỗi ngày vẫn đạt học sinh giỏi,em đi bộ 10km đến trường vẫn học sinh giỏi
+surprised,A,@A,4.0,1.0,True,4.0,em vừa học vừa phụ cha mẹ mà vẫn đứng nhất lớp,em học phụ cha mẹ vẫn nhất lớp
+surprised,A,@A,4.0,1.0,True,4.0,thật không ngờ một em học sinh nghèo lại thi quốc tế,không ngờ em học sinh nghèo thi quốc tế
+surprised,A,@A,4.0,1.0,True,4.0,em nhỏ sống trong lán tạm bợ nhưng học cực giỏi,sống lán tạm bợ nhưng học giỏi
+surprised,A,@A,4.0,1.0,True,4.0,ngạc nhiên khi em học sinh vùng cao được tuyển thẳng đại học,ngạc nhiên em vùng cao tuyển thẳng đại học
+surprised,A,@A,4.0,1.0,True,4.0,em không có bàn học nhưng vẫn thi đậu chuyên,em không bàn học vẫn thi đậu chuyên
+surprised,A,@A,4.0,1.0,True,4.0,tôi không nghĩ em lại có nghị lực mạnh mẽ như thế,không nghĩ em nghị lực mạnh mẽ
+surprised,A,@A,4.0,1.0,True,4.0,em học bài dưới ánh đèn dầu mà vẫn giành giải quốc gia,học dưới đèn dầu vẫn giành giải quốc gia
+surprised,A,@A,4.0,1.0,True,4.0,bất ngờ khi em nhỏ đạt học bổng toàn phần đi Mỹ,bất ngờ em đạt học bổng toàn phần Mỹ
+surprised,A,@A,4.0,1.0,True,4.0,em không có điện thoại mà vẫn đứng đầu lớp,không có điện thoại vẫn đứng đầu lớp
+surprised,A,@A,4.0,1.0,True,4.0,ngạc nhiên vì em ấy không học thêm mà vẫn thi 9 điểm,em không học thêm vẫn thi 9 điểm
+surprised,A,@A,4.0,1.0,True,4.0,em học trong chuồng trâu mà vẫn thi đỗ học viện kỹ thuật,em học chuồng trâu vẫn đỗ học viện
+surprised,A,@A,4.0,1.0,True,4.0,thật cảm phục nghị lực và sự chăm chỉ của em,nghị lực sự chăm chỉ của em
+surprised,A,@A,4.0,1.0,True,4.0,em vừa bán vé số vừa học vẫn giành học bổng,bán vé số học vẫn giành học bổng
+surprised,A,@A,4.0,1.0,True,4.0,em là con nhà nông nhưng nói tiếng Anh như gió,con nhà nông nói tiếng Anh như gió
+surprised,A,@A,4.0,1.0,True,4.0,em học trò nghèo đạt giải nhất toán quốc gia,học trò nghèo giải nhất toán quốc gia
+surprised,A,@A,4.0,1.0,True,4.0,cảm thấy xúc động và bất ngờ trước kết quả của em,xúc động bất ngờ kết quả của em
+surprised,A,@A,4.0,1.0,True,4.0,em tự chế máy học online từ đồ cũ,tự chế máy học online từ đồ cũ
+surprised,A,@A,4.0,1.0,True,4.0,không ngờ em dùng sách cũ 5 năm vẫn học cực tốt,em dùng sách cũ vẫn học tốt
+surprised,A,@A,4.0,1.0,True,4.0,em học sinh miền núi viết văn khiến tôi xúc động,học sinh miền núi viết văn xúc động
+surprised,A,@A,4.0,1.0,True,4.0,tôi sốc khi biết em chưa từng có máy tính,sốc biết em chưa có máy tính
+surprised,A,@A,4.0,1.0,True,4.0,em không có giày đi học nhưng chưa từng nghỉ buổi nào,không có giày đi học chưa nghỉ buổi nào
+surprised,A,@A,4.0,1.0,True,4.0,em nhỏ học dưới gầm cầu vẫn thi đậu top đầu,học dưới gầm cầu vẫn đậu top đầu
+surprised,A,@A,4.0,1.0,True,4.0,em vượt cả những bạn có điều kiện tốt hơn,vượt bạn có điều kiện tốt hơn
+surprised,A,@A,4.0,1.0,True,4.0,em học trò bị bệnh tim vẫn đi thi học sinh giỏi,bệnh tim vẫn đi thi học sinh giỏi
+surprised,A,@A,4.0,1.0,True,4.0,không ngờ một em nhỏ mồ côi lại đạt điểm tuyệt đối,em nhỏ mồ côi đạt điểm tuyệt đối
+surprised,A,@A,4.0,1.0,True,4.0,em học sinh khuyết tật vẫn đạt giải cấp tỉnh,học sinh khuyết tật đạt giải cấp tỉnh
+surprised,A,@A,4.0,1.0,True,4.0,tôi cảm phục tinh thần vượt khó của em,cảm phục tinh thần vượt khó
+surprised,A,@A,4.0,1.0,True,4.0,em từng nghỉ học 2 năm nhưng vẫn trở lại và giỏi nhất lớp,nghỉ học 2 năm trở lại giỏi nhất lớp
+surprised,A,@A,4.0,1.0,True,4.0,em học sinh không cha mẹ đạt học bổng danh giá,không cha mẹ đạt học bổng danh giá
+surprised,A,@A,4.0,1.0,True,4.0,em sống một mình vẫn học giỏi và lễ phép,sống một mình học giỏi lễ phép
+surprised,A,@A,4.0,1.0,True,4.0,em làm việc từ sáng tới tối vẫn không bỏ học,làm việc từ sáng tới tối không bỏ học
+surprised,A,@A,4.0,1.0,True,4.0,bài văn của em khiến tôi nổi da gà,bài văn em khiến tôi nổi da gà
+surprised,A,@A,4.0,1.0,True,4.0,em đạt 29 điểm đại học dù học trường làng,đạt 29 điểm đại học học trường làng
+surprised,A,@A,4.0,1.0,True,4.0,em học trò nghèo viết luận bằng tiếng Pháp cực hay,học trò nghèo viết luận tiếng Pháp cực hay
+surprised,A,@A,4.0,1.0,True,4.0,ngạc nhiên vì em có thể giải toán Olympic dễ dàng,ngạc nhiên em giải toán Olympic dễ dàng
+surprised,A,@A,4.0,1.0,True,4.0,em học sinh ở đảo xa vẫn đạt điểm cao nhất,em học sinh đảo xa đạt điểm cao
+surprised,A,@A,4.0,1.0,True,4.0,em học sinh dân tộc đạt giải quốc tế,dân tộc đạt giải quốc tế
+surprised,A,@A,4.0,1.0,True,4.0,em vừa học vừa chăm em nhỏ vẫn giỏi đều các môn,học chăm em nhỏ vẫn giỏi các môn
+surprised,A,@A,4.0,1.0,True,4.0,bài thuyết trình của em đầy sáng tạo và cảm xúc,bài thuyết trình sáng tạo cảm xúc
+surprised,A,@A,4.0,1.0,True,4.0,em không có bàn học nhưng vẫn vẽ đẹp tuyệt vời,không có bàn học vẫn vẽ đẹp
+surprised,A,@A,4.0,1.0,True,4.0,em học sinh mồ côi vẫn giành huy chương vàng,em mồ côi giành huy chương vàng
+surprised,A,@A,4.0,1.0,True,4.0,em học dưới gốc cây nhưng làm toán như máy,học dưới gốc cây làm toán như máy
+surprised,A,@A,4.0,1.0,True,4.0,em sáng tạo thiết bị học tập từ rác thải,sáng tạo thiết bị học từ rác thải
+surprised,A,@A,4.0,1.0,True,4.0,em biết lập trình khi chưa học trung học,biết lập trình chưa học trung học
+surprised,A,@A,4.0,1.0,True,4.0,em có thể viết thơ bằng tiếng Anh và tiếng Việt,viết thơ tiếng Anh tiếng Việt
+surprised,A,@A,4.0,1.0,True,4.0,em nhỏ giành 3 giải cấp quốc gia trong một năm,giành 3 giải quốc gia trong năm
+boring,A,@A,7.0,1.0,True,7.0,nội dung video này nhạt nhẽo thật,nội dung video nhạt nhẽo
+boring,A,@A,7.0,1.0,True,7.0,bài hát nghe như chép lại từ bài cũ,bài hát như chép lại bài cũ
+boring,A,@A,7.0,1.0,True,7.0,xem xong không nhớ nổi video nói gì,xem xong không nhớ video nói gì
+boring,A,@A,7.0,1.0,True,7.0,thiếu sáng tạo và nhàm chán,thiếu sáng tạo nhàm chán
+boring,A,@A,7.0,1.0,True,7.0,bài nhạc như lấy từ thập kỷ trước,nhạc như lấy từ thập kỷ trước
+boring,A,@A,7.0,1.0,True,7.0,video dài lê thê không có điểm nhấn,video dài lê thê không điểm nhấn
+boring,A,@A,7.0,1.0,True,7.0,xem nửa video đã muốn tắt,xem nửa video muốn tắt
+boring,A,@A,7.0,1.0,True,7.0,nội dung lặp đi lặp lại,nội dung lặp lại
+boring,A,@A,7.0,1.0,True,7.0,video không có gì mới mẻ,video không mới mẻ
+boring,A,@A,7.0,1.0,True,7.0,ca từ vô hồn và nhạt,ca từ vô hồn nhạt
+boring,A,@A,7.0,1.0,True,7.0,ý tưởng cũ kỹ và không hấp dẫn,ý tưởng cũ kỹ không hấp dẫn
+boring,A,@A,7.0,1.0,True,7.0,bài hát này giống hàng loạt bài khác,bài hát giống bài khác
+boring,A,@A,7.0,1.0,True,7.0,xem như tra tấn thị giác,xem như tra tấn thị giác
+boring,A,@A,7.0,1.0,True,7.0,một màu và nhàm chán,một màu nhàm chán
+boring,A,@A,7.0,1.0,True,7.0,không hiểu sao lại đăng được video này,không hiểu sao đăng video này
+boring,A,@A,7.0,1.0,True,7.0,cảnh quay rời rạc và thiếu cảm xúc,cảnh quay rời rạc thiếu cảm xúc
+boring,A,@A,7.0,1.0,True,7.0,beat nhạc quá cũ kỹ và tẻ nhạt,beat nhạc cũ kỹ tẻ nhạt
+boring,A,@A,7.0,1.0,True,7.0,tôi không thấy chút sáng tạo nào trong đây,không thấy sáng tạo
+boring,A,@A,7.0,1.0,True,7.0,nội dung quá dễ đoán,nội dung dễ đoán
+boring,A,@A,7.0,1.0,True,7.0,không có điểm gì đáng nhớ,không có điểm đáng nhớ
+boring,A,@A,7.0,1.0,True,7.0,thiếu điểm nhấn,thiếu điểm nhấn
+boring,A,@A,7.0,1.0,True,7.0,nội dung như được làm cho có,nội dung làm cho có
+boring,A,@A,7.0,1.0,True,7.0,cách trình bày gây buồn ngủ,cách trình bày gây buồn ngủ
+boring,A,@A,7.0,1.0,True,7.0,thiếu năng lượng và cuốn hút,thiếu năng lượng cuốn hút
+boring,A,@A,7.0,1.0,True,7.0,bài hát kéo dài quá mức cần thiết,bài hát kéo dài quá mức
+boring,A,@A,7.0,1.0,True,7.0,xem mà muốn bỏ giữa chừng,xem muốn bỏ giữa chừng
+boring,A,@A,7.0,1.0,True,7.0,nội dung như lặp từ video trước,nội dung lặp video trước
+boring,A,@A,7.0,1.0,True,7.0,video này như bản sao của hàng trăm video khác,video như bản sao video khác
+boring,A,@A,7.0,1.0,True,7.0,không có gì nổi bật,không có gì nổi bật
+boring,A,@A,7.0,1.0,True,7.0,nghe mãi một giai điệu,nghe mãi giai điệu
+boring,A,@A,7.0,1.0,True,7.0,câu chuyện trong video không logic,câu chuyện video không logic
+boring,A,@A,7.0,1.0,True,7.0,bài hát không tạo được cảm xúc,bài hát không tạo cảm xúc
+boring,A,@A,7.0,1.0,True,7.0,video chẳng có chút sáng tạo nào,video không có sáng tạo
+boring,A,@A,7.0,1.0,True,7.0,cảm giác như đang xem bản nháp,cảm giác như xem bản nháp
+boring,A,@A,7.0,1.0,True,7.0,nội dung không đầu không cuối,nội dung không đầu không cuối
+boring,A,@A,7.0,1.0,True,7.0,cách dựng cảnh quá sơ sài,cách dựng cảnh sơ sài
+boring,A,@A,7.0,1.0,True,7.0,thiếu sáng tạo nghiêm trọng,thiếu sáng tạo nghiêm trọng
+boring,A,@A,7.0,1.0,True,7.0,như đang xem một video cũ cách đây 10 năm,xem video cũ 10 năm
+boring,A,@A,7.0,1.0,True,7.0,bài hát quá dễ đoán và đơn điệu,bài hát dễ đoán đơn điệu
+boring,A,@A,7.0,1.0,True,7.0,xem xong không đọng lại gì,xem xong không đọng lại gì
+boring,A,@A,7.0,1.0,True,7.0,quá nhàm và thiếu ý tưởng,màm thiếu ý tưởng
+boring,A,@A,7.0,1.0,True,7.0,bài nhạc giống như copy paste,bài nhạc như copy paste
+boring,A,@A,7.0,1.0,True,7.0,xem rồi quên ngay,xem rồi quên
+boring,A,@A,7.0,1.0,True,7.0,bài hát không có điểm nhấn nào,bài hát không điểm nhấn
+boring,A,@A,7.0,1.0,True,7.0,video quá mờ nhạt so với tiêu đề,video mờ nhạt tiêu đề
+boring,A,@A,7.0,1.0,True,7.0,không thấy gì đặc biệt trong phần nhạc,không thấy đặc biệt phần nhạc
+boring,A,@A,7.0,1.0,True,7.0,nội dung chỉ xoay quanh một ý chính,nội dung xoay quanh một ý
+boring,A,@A,7.0,1.0,True,7.0,bài hát như lặp đi lặp lại chính nó,bài hát lặp lại chính nó
+boring,A,@A,7.0,1.0,True,7.0,thiếu điểm thu hút người xem,thiếu điểm thu hút người xem
+boring,A,@A,7.0,1.0,True,7.0,video không có cao trào,video không cao trào
+boring,A,@A,7.0,1.0,True,7.0,nghe bài mà không cảm được gì,nghe bài không cảm được
+boring,A,@A,7.0,1.0,True,7.0,giọng hát đều đều không tạo cảm xúc,giọng hát đều đều không cảm xúc
+boring,A,@A,7.0,1.0,True,7.0,video không đầu tư chất lượng,video không đầu tư chất lượng
+boring,A,@A,7.0,1.0,True,7.0,nội dung video không liên kết,nội dung video không liên kết
+boring,A,@A,7.0,1.0,True,7.0,tôi cảm thấy phí thời gian khi xem video này,phí thời gian xem video
+boring,A,@A,7.0,1.0,True,7.0,video như copy từ kênh khác,video như copy kênh khác
+boring,A,@A,7.0,1.0,True,7.0,âm thanh đơn điệu và nhàm chán,âm thanh đơn điệu nhàm chán
+boring,A,@A,7.0,1.0,True,7.0,nhìn là biết không đầu tư nội dung,không đầu tư nội dung
+boring,A,@A,7.0,1.0,True,7.0,video chỉ để câu view chứ không có giá trị,video câu view không giá trị
+boring,A,@A,7.0,1.0,True,7.0,bài hát không có hồn và sáng tạo,bài hát không có hồn sáng tạo
+boring,A,@A,7.0,1.0,True,7.0,bài hát không khác gì bản trước,bài hát không khác bản trước
+boring,A,@A,7.0,1.0,True,7.0,nội dung không mang lại điều gì mới,nội dung không mang điều mới
+boring,A,@A,7.0,1.0,True,7.0,video này như dàn dựng gượng ép,video như dàn dựng gượng ép
+boring,A,@A,7.0,1.0,True,7.0,cốt truyện nhàm và lặp,video cốt truyện nhàm lặp
+boring,A,@A,7.0,1.0,True,7.0,bài hát nghe một lần là đủ rồi,bài hát nghe một lần đủ
+boring,A,@A,7.0,1.0,True,7.0,thiếu sáng tạo trong từng giai điệu,thiếu sáng tạo trong giai điệu
+boring,A,@A,7.0,1.0,True,7.0,nội dung chắp vá và thiếu logic,nội dung chắp vá thiếu logic
+boring,A,@A,7.0,1.0,True,7.0,video lặp lại chủ đề cũ mòn,video lặp lại chủ đề cũ
+boring,A,@A,7.0,1.0,True,7.0,bài hát này không có linh hồn,bài hát không có linh hồn
+boring,A,@A,7.0,1.0,True,7.0,xem video cảm giác như tua nhanh,xem video cảm giác tua nhanh
+boring,A,@A,7.0,1.0,True,7.0,thiếu cá tính và dấu ấn riêng,thiếu cá tính dấu ấn riêng
+fear,A,@A,5.0,1.0,True,5.0,tôi sợ những gì đang chờ phía trước,tôi sợ chờ phía trước
+fear,A,@A,5.0,1.0,True,5.0,nghĩ về tương lai mà lạnh sống lưng,nghĩ tương lai lạnh sống lưng
+fear,A,@A,5.0,1.0,True,5.0,sợ một ngày mất đi người thân,sợ mất người thân
+fear,A,@A,5.0,1.0,True,5.0,cảm giác bất lực khi nghĩ về bệnh tật,bất lực nghĩ bệnh tật
+fear,A,@A,5.0,1.0,True,5.0,cái chết thật sự là điều ám ảnh,cái chết là điều ám ảnh
+fear,A,@A,5.0,1.0,True,5.0,tương lai mờ mịt khiến tôi mất ngủ,tương lai mờ mịt mất ngủ
+fear,A,@A,5.0,1.0,True,5.0,tôi sợ bị bệnh mà không ai bên cạnh,sợ bị bệnh không ai bên cạnh
+fear,A,@A,5.0,1.0,True,5.0,có lúc tôi thấy sợ cả cuộc sống này,sợ cả cuộc sống
+fear,A,@A,5.0,1.0,True,5.0,bệnh tật có thể đến bất ngờ bất kỳ lúc nào,bệnh tật đến bất ngờ bất kỳ lúc nào
+fear,A,@A,5.0,1.0,True,5.0,sợ cảm giác không thể kiểm soát tương lai,sợ không thể kiểm soát tương lai
+fear,A,@A,5.0,1.0,True,5.0,tôi sợ một ngày không còn tồn tại,sợ không còn tồn tại
+fear,A,@A,5.0,1.0,True,5.0,cái chết là điều khiến tôi day dứt mỗi đêm,cái chết khiến tôi day dứt
+fear,A,@A,5.0,1.0,True,5.0,lo lắng tương lai sẽ không có lối ra,lo tương lai không có lối ra
+fear,A,@A,5.0,1.0,True,5.0,tôi không dám nghĩ đến bệnh hiểm nghèo,không dám nghĩ bệnh hiểm nghèo
+fear,A,@A,5.0,1.0,True,5.0,sợ thời gian trôi quá nhanh,sợ thời gian trôi nhanh
+fear,A,@A,5.0,1.0,True,5.0,tôi lo sẽ cô đơn khi về già,lo cô đơn khi về già
+fear,A,@A,5.0,1.0,True,5.0,thấy người thân bệnh mà lòng hoảng loạn,người thân bệnh lòng hoảng loạn
+fear,A,@A,5.0,1.0,True,5.0,tôi sợ một mai mất đi trí nhớ,sợ mất trí nhớ
+fear,A,@A,5.0,1.0,True,5.0,nghĩ đến tai nạn là thấy rùng mình,nghĩ tai nạn rùng mình
+fear,A,@A,5.0,1.0,True,5.0,tôi sợ mình không còn giá trị nữa,sợ không còn giá trị
+fear,A,@A,5.0,1.0,True,5.0,sợ đau đớn kéo dài khi bệnh nặng,sợ đau đớn bệnh nặng
+fear,A,@A,5.0,1.0,True,5.0,tương lai không rõ ràng làm tôi hoang mang,tương lai không rõ ràng hoang mang
+fear,A,@A,5.0,1.0,True,5.0,đêm nào cũng lo lắng về cái chết,lo lắng về cái chết
+fear,A,@A,5.0,1.0,True,5.0,sợ không thể bảo vệ được người mình yêu,sợ không bảo vệ người yêu
+fear,A,@A,5.0,1.0,True,5.0,cảm thấy bất an mỗi khi bệnh,cảm thấy bất an khi bệnh
+fear,A,@A,5.0,1.0,True,5.0,sợ bị bỏ rơi khi già yếu,sợ bị bỏ rơi khi già yếu
+fear,A,@A,5.0,1.0,True,5.0,khó thở mỗi lần nghĩ đến bệnh viện,khó thở nghĩ bệnh viện
+fear,A,@A,5.0,1.0,True,5.0,sợ tương lai không như mong muốn,sợ tương lai không như mong muốn
+fear,A,@A,5.0,1.0,True,5.0,tôi sợ không đạt được gì trước khi chết,sợ không đạt được gì trước khi chết
+fear,A,@A,5.0,1.0,True,5.0,sợ con cái không có ai lo sau này,sợ con cái không ai lo
+fear,A,@A,5.0,1.0,True,5.0,mỗi lần ho là tôi nghĩ đến ung thư,ho nghĩ đến ung thư
+fear,A,@A,5.0,1.0,True,5.0,đôi khi tôi thấy sống rất mong manh,sống rất mong manh
+fear,A,@A,5.0,1.0,True,5.0,sợ mất khả năng làm việc,sợ mất khả năng làm việc
+fear,A,@A,5.0,1.0,True,5.0,tôi sợ những điều tồi tệ bất ngờ xảy ra,sợ điều tồi tệ xảy ra
+fear,A,@A,5.0,1.0,True,5.0,ngày càng nhiều người trẻ mắc bệnh hiểm nghèo,người trẻ mắc bệnh hiểm nghèo
+fear,A,@A,5.0,1.0,True,5.0,sợ một ngày mình không còn minh mẫn,sợ không còn minh mẫn
+fear,A,@A,5.0,1.0,True,5.0,tôi lo mình sẽ không vượt qua được bệnh tật,lo không vượt qua bệnh tật
+fear,A,@A,5.0,1.0,True,5.0,nghĩ về mai sau thấy buồn và lo,nghĩ mai sau buồn lo
+fear,A,@A,5.0,1.0,True,5.0,sợ sống mà không còn cảm xúc,sợ sống không cảm xúc
+fear,A,@A,5.0,1.0,True,5.0,mỗi cơn đau lại khiến tôi hoảng sợ,cơn đau khiến tôi hoảng sợ
+fear,A,@A,5.0,1.0,True,5.0,tôi sợ không kịp nói lời yêu thương,sợ không kịp nói lời yêu thương
+fear,A,@A,5.0,1.0,True,5.0,cái chết đến không báo trước làm tôi lo sợ,cái chết không báo trước lo sợ
+fear,A,@A,5.0,1.0,True,5.0,sợ mỗi ngày thức dậy mà không có hy vọng,sợ thức dậy không có hy vọng
+fear,A,@A,5.0,1.0,True,5.0,sợ bị chẩn đoán bệnh nan y,sợ chẩn đoán bệnh nan y
+fear,A,@A,5.0,1.0,True,5.0,tôi thấy bất an vì sức khỏe giảm sút,bất an vì sức khỏe giảm
+fear,A,@A,5.0,1.0,True,5.0,không biết rồi mình sẽ sống được bao lâu,không biết sống được bao lâu
+fear,A,@A,5.0,1.0,True,5.0,sợ sống mà không còn khả năng tự chăm sóc,sợ không còn khả năng tự chăm sóc
+fear,A,@A,5.0,1.0,True,5.0,nghĩ đến cô độc lúc cuối đời mà sợ,nghĩ cô độc cuối đời sợ
+fear,A,@A,5.0,1.0,True,5.0,tôi sợ không kịp thực hiện ước mơ,sợ không kịp thực hiện ước mơ
+fear,A,@A,5.0,1.0,True,5.0,cảm giác sợ hãi khi đi khám bệnh,cảm giác sợ khi khám bệnh
+fear,A,@A,5.0,1.0,True,5.0,sợ một ngày tất cả kết thúc,sợ tất cả kết thúc
+curious,A,@A,6.0,1.0,True,6.0,không biết thuốc này có tác dụng phụ gì không,thuốc có tác dụng phụ không
+curious,A,@A,6.0,1.0,True,6.0,mình tò mò không biết công nghệ AI có áp dụng vào y học được không,tò mò công nghệ AI áp dụng y học
+curious,A,@A,6.0,1.0,True,6.0,thuốc này sản xuất ở đâu vậy nhỉ,thuốc sản xuất đâu
+curious,A,@A,6.0,1.0,True,6.0,tò mò không biết blockchain ứng dụng ra sao trong ngành ngân hàng,tò mò blockchain ứng dụng ngành ngân hàng
+curious,A,@A,6.0,1.0,True,6.0,nghe nói có thuốc giảm cân mới không biết hiệu quả không,thuốc giảm cân mới hiệu quả không
+curious,A,@A,6.0,1.0,True,6.0,lần đầu nghe đến lập trình bằng Rust muốn tìm hiểu thêm,lập trình Rust muốn tìm hiểu
+curious,A,@A,6.0,1.0,True,6.0,không biết thuốc trị mất ngủ này có an toàn không,thuốc trị mất ngủ an toàn không
+curious,A,@A,6.0,1.0,True,6.0,AI có thể giúp dự đoán thời tiết chính xác hơn không nhỉ,AI giúp dự đoán thời tiết chính xác không
+curious,A,@A,6.0,1.0,True,6.0,mình thắc mắc thuốc này có phù hợp với người cao tuổi không,thuốc phù hợp người cao tuổi không
+curious,A,@A,6.0,1.0,True,6.0,nghe nói Python có thể điều khiển robot nghe thú vị ghê,Python điều khiển robot thú vị
+curious,A,@A,6.0,1.0,True,6.0,có bao nhiêu loại vaccine cúm khác nhau vậy nhỉ,có bao nhiêu loại vaccine cúm
+curious,A,@A,6.0,1.0,True,6.0,tò mò không biết ứng dụng IoT trong nông nghiệp hoạt động thế nào,tò mò ứng dụng IoT nông nghiệp hoạt động thế nào
+curious,A,@A,6.0,1.0,True,6.0,thuốc này uống bao lâu thì có tác dụng vậy,thuốc uống bao lâu có tác dụng
+curious,A,@A,6.0,1.0,True,6.0,tự hỏi tại sao công nghệ nhận diện khuôn mặt lại chính xác như vậy,tại sao công nghệ nhận diện khuôn mặt chính xác
+curious,A,@A,6.0,1.0,True,6.0,thuốc trị tiểu đường này có khác gì so với loại cũ không,thuốc trị tiểu đường khác gì loại cũ
+curious,A,@A,6.0,1.0,True,6.0,có phần mềm nào tự động kiểm thử ứng dụng không,phần mềm tự động kiểm thử ứng dụng không
+curious,A,@A,6.0,1.0,True,6.0,nghe bảo có thuốc làm chậm lão hóa có thật không ta,thuốc làm chậm lão hóa thật không
+curious,A,@A,6.0,1.0,True,6.0,lập trình game bằng Unity có khó không nhỉ,lập trình game Unity khó không
+curious,A,@A,6.0,1.0,True,6.0,muốn biết loại thuốc nào hỗ trợ tăng miễn dịch tốt nhất,thuốc hỗ trợ tăng miễn dịch tốt nhất
+curious,A,@A,6.0,1.0,True,6.0,không biết trí tuệ nhân tạo có thể sáng tác nhạc hay không,AI có thể sáng tác nhạc không
+curious,A,@A,6.0,1.0,True,6.0,thuốc bổ nào phù hợp cho người hay làm việc đêm,thuốc bổ phù hợp người làm việc đêm
+curious,A,@A,6.0,1.0,True,6.0,không biết DevOps khác gì với truyền thống nhỉ,DevOps khác gì truyền thống
+curious,A,@A,6.0,1.0,True,6.0,tò mò tại sao có nhiều loại thuốc cùng thành phần nhưng giá khác nhau,nhiều thuốc cùng thành phần giá khác nhau
+curious,A,@A,6.0,1.0,True,6.0,nghe nói Deep Learning giúp chẩn đoán bệnh sớm hơn,Deep Learning giúp chẩn đoán bệnh sớm
+curious,A,@A,6.0,1.0,True,6.0,thuốc giảm đau nào ít gây nghiện nhất,thuốc giảm đau ít gây nghiện
+curious,A,@A,6.0,1.0,True,6.0,công nghệ VR có thể dùng trong giáo dục được không nhỉ,công nghệ VR dùng trong giáo dục không
+curious,A,@A,6.0,1.0,True,6.0,thuốc nhỏ mắt này có dùng được cho trẻ em không,thuốc nhỏ mắt dùng cho trẻ em không
+curious,A,@A,6.0,1.0,True,6.0,có framework nào tốt để làm web thời gian thực không,framework làm web thời gian thực tốt
+curious,A,@A,6.0,1.0,True,6.0,muốn tìm hiểu về cơ chế hoạt động của vaccine mRNA,cơ chế hoạt động vaccine mRNA
+curious,A,@A,6.0,1.0,True,6.0,tại sao thuốc kháng sinh không được dùng quá nhiều,tại sao thuốc kháng sinh không dùng nhiều
+curious,A,@A,6.0,1.0,True,6.0,có thể dùng AI để phát hiện gian lận tài chính không,AI phát hiện gian lận tài chính không
+curious,A,@A,6.0,1.0,True,6.0,có thuốc nào giúp cải thiện trí nhớ không,thuốc giúp cải thiện trí nhớ không
+curious,A,@A,6.0,1.0,True,6.0,nghe nói có thuốc chữa ung thư mới không biết hiệu quả thế nào,thuốc chữa ung thư mới hiệu quả thế nào
+curious,A,@A,6.0,1.0,True,6.0,cloud computing có bảo mật hơn server truyền thống không,cloud computing bảo mật hơn server truyền thống không
+curious,A,@A,6.0,1.0,True,6.0,thuốc này có thể dùng cho người dị ứng không,thuốc dùng cho người dị ứng không
+curious,A,@A,6.0,1.0,True,6.0,có cách nào tăng tốc độ học máy không,tăng tốc độ học máy có cách nào
+curious,A,@A,6.0,1.0,True,6.0,thấy tên thuốc dài quá không biết nghĩa là gì,tên thuốc dài không biết nghĩa
+curious,A,@A,6.0,1.0,True,6.0,nghe nói có thuốc giúp ngủ ngon hơn,thuốc giúp ngủ ngon hơn
+curious,A,@A,6.0,1.0,True,6.0,AI có thể phát hiện bệnh qua hình ảnh y khoa không,AI phát hiện bệnh qua hình ảnh y khoa không
+curious,A,@A,6.0,1.0,True,6.0,thuốc này có ảnh hưởng đến gan thận không,thuốc ảnh hưởng gan thận không
+curious,A,@A,6.0,1.0,True,6.0,tò mò tại sao lại dùng Java trong hệ thống ngân hàng,tại sao dùng Java hệ thống ngân hàng
+curious,A,@A,6.0,1.0,True,6.0,muốn tìm hiểu cách AI học từ dữ liệu lớn,AI học từ dữ liệu lớn
+curious,A,@A,6.0,1.0,True,6.0,thuốc chống dị ứng này có gây buồn ngủ không,thuốc chống dị ứng gây buồn ngủ không
+curious,A,@A,6.0,1.0,True,6.0,có thể học Machine Learning mà không cần toán cao cấp không,học Machine Learning không cần toán cao cấp
+curious,A,@A,6.0,1.0,True,6.0,thuốc ho nào an toàn cho phụ nữ mang thai,thuốc ho an toàn phụ nữ mang thai
+curious,A,@A,6.0,1.0,True,6.0,tò mò không biết AI có thể viết code thay con người không,AI viết code thay con người không
+curious,A,@A,6.0,1.0,True,6.0,muốn biết thuốc này cần kê đơn không,thuốc cần kê đơn không
+curious,A,@A,6.0,1.0,True,6.0,đọc thành phần thuốc mà không hiểu gì cả,đọc thành phần thuốc không hiểu
+curious,A,@A,6.0,1.0,True,6.0,muốn thử framework mới để build app nhanh hơn,muốn thử framework mới build app nhanh
+curious,A,@A,6.0,1.0,True,6.0,có plugin nào giúp debug code dễ hơn không,plugin giúp debug code dễ hơn không
+curious,A,@A,6.0,1.0,True,6.0,tò mò tại sao thuốc này lại đắt như vậy,tại sao thuốc đắt vậy
+boring,A,@A,7.0,1.0,True,7.0,phim của trấn thành coi lần nào cũng đoán được kết cục,phim trấn thành đoán được kết cục
+boring,A,@A,7.0,1.0,True,7.0,xem phim của ảnh mà ngủ quên lúc nào không hay,phim ngủ quên lúc nào không hay
+boring,A,@A,7.0,1.0,True,7.0,toàn thoại dài lê thê chả có cao trào gì cả,thoại dài lê thê không cao trào
+boring,A,@A,7.0,1.0,True,7.0,phim nào của trấn thành cũng na ná nhau,phim trấn thành na ná nhau
+boring,A,@A,7.0,1.0,True,7.0,cốt truyện không có gì mới mẻ hết,cốt truyện không mới mẻ
+boring,A,@A,7.0,1.0,True,7.0,xem như cực hình luôn á,xem cực hình
+boring,A,@A,7.0,1.0,True,7.0,phim chiếu rạp mà như phim truyền hình dài tập,phim chiếu rạp như phim truyền hình
+boring,A,@A,7.0,1.0,True,7.0,nhân vật một màu chán quá,nhân vật một màu chán
+boring,A,@A,7.0,1.0,True,7.0,thiếu sáng tạo thiếu cảm xúc,thiếu sáng tạo thiếu cảm xúc
+boring,A,@A,7.0,1.0,True,7.0,xem một lần là không muốn xem lại,xem không muốn xem lại
+boring,A,@A,7.0,1.0,True,7.0,nền kinh tế công nghiệp ngày càng tẻ nhạt,nền kinh tế công nghiệp tẻ nhạt
+boring,A,@A,7.0,1.0,True,7.0,toàn dây chuyền máy móc không cảm xúc gì hết,dây chuyền máy móc không cảm xúc
+boring,A,@A,7.0,1.0,True,7.0,sản xuất hàng loạt mà chẳng có hồn,sản xuất hàng loạt không có hồn
+boring,A,@A,7.0,1.0,True,7.0,mỗi ngày giống nhau như lặp đi lặp lại,mỗi ngày giống nhau
+boring,A,@A,7.0,1.0,True,7.0,ngồi nhà máy 8 tiếng nhìn máy chạy chán muốn khóc,nhà máy 8 tiếng nhìn máy chạy chán
+boring,A,@A,7.0,1.0,True,7.0,sống trong khu công nghiệp đúng nghĩa nhàm chán,sống khu công nghiệp nhàm chán
+boring,A,@A,7.0,1.0,True,7.0,cả đời làm công nhân mà chẳng thay đổi được gì,đời công nhân không thay đổi
+boring,A,@A,7.0,1.0,True,7.0,sáng làm chiều về tối mệt ngủ,sáng làm chiều về tối ngủ
+boring,A,@A,7.0,1.0,True,7.0,công nhân làm việc như robot mỗi ngày,công nhân làm việc như robot
+boring,A,@A,7.0,1.0,True,7.0,đời công nhân không có gì đáng mong chờ,đời công nhân không đáng mong chờ
+boring,A,@A,7.0,1.0,True,7.0,xem show trấn thành mà buồn ngủ,xem show trấn thành buồn ngủ
+boring,A,@A,7.0,1.0,True,7.0,toàn là chiêu trò chứ không có chiều sâu,chiêu trò không chiều sâu
+boring,A,@A,7.0,1.0,True,7.0,phim kéo dài lê thê mà chẳng có điểm nhấn,phim kéo dài không điểm nhấn
+boring,A,@A,7.0,1.0,True,7.0,nội dung cứ xoay đi xoay lại hoài,nội dung xoay lại hoài
+boring,A,@A,7.0,1.0,True,7.0,phim giải trí mà coi xong chả nhớ gì,phim coi xong không nhớ gì
+boring,A,@A,7.0,1.0,True,7.0,sản phẩm công nghiệp giống nhau như đúc,sản phẩm công nghiệp giống nhau
+boring,A,@A,7.0,1.0,True,7.0,nhà xưởng đầy khói bụi và tiếng ồn,nhà xưởng khói bụi tiếng ồn
+boring,A,@A,7.0,1.0,True,7.0,công việc không có chút sáng tạo nào,công việc không sáng tạo
+boring,A,@A,7.0,1.0,True,7.0,mỗi ngày chỉ biết lặp lại thao tác cũ,mỗi ngày lặp lại thao tác
+boring,A,@A,7.0,1.0,True,7.0,sống không có định hướng gì cả,sống không định hướng
+boring,A,@A,7.0,1.0,True,7.0,mức lương thấp mà áp lực cao,lương thấp áp lực cao
+boring,A,@A,7.0,1.0,True,7.0,nghĩ đến tuần mới là ngán rồi,nghĩ tuần mới ngán
+boring,A,@A,7.0,1.0,True,7.0,chỉ mong hết giờ để về nhà,chỉ mong hết giờ về nhà
+boring,A,@A,7.0,1.0,True,7.0,đi làm mà chẳng có động lực gì cả,đi làm không có động lực
+boring,A,@A,7.0,1.0,True,7.0,phim thiếu chiều sâu tâm lý nhân vật,phim thiếu chiều sâu tâm lý
+boring,A,@A,7.0,1.0,True,7.0,phim toàn nói đạo lý không có thực tế,phim nói đạo lý không thực tế
+boring,A,@A,7.0,1.0,True,7.0,cảnh quay đơn điệu nhàm chán,cảnh quay đơn điệu nhàm chán
+boring,A,@A,7.0,1.0,True,7.0,cả tập phim mà không có gì nổi bật,cả tập phim không nổi bật
+boring,A,@A,7.0,1.0,True,7.0,làm công nhân 10 năm mà vẫn như cũ,làm công nhân 10 năm vẫn như cũ
+boring,A,@A,7.0,1.0,True,7.0,tương lai mờ mịt không có lối thoát,tương lai mờ mịt không lối thoát
+boring,A,@A,7.0,1.0,True,7.0,chán đến mức không muốn mở máy đi làm nữa,không muốn mở máy đi làm
+boring,A,@A,7.0,1.0,True,7.0,thấy mình như cái máy được lập trình sẵn,như cái máy lập trình sẵn
+boring,A,@A,7.0,1.0,True,7.0,ngày nào cũng vậy tháng nào cũng vậy,ngày nào tháng nào cũng vậy
+boring,A,@A,7.0,1.0,True,7.0,cuộc sống lập đi lập lại nhàm chán,cuộc sống lập lại nhàm chán
+boring,A,@A,7.0,1.0,True,7.0,phim chỉ được cái tên còn nội dung thì chán,phim tên hay nội dung chán
+boring,A,@A,7.0,1.0,True,7.0,xem xong chỉ thấy mất thời gian,xem xong mất thời gian
+boring,A,@A,7.0,1.0,True,7.0,làm cả tháng mà không đủ tiền sinh hoạt,làm cả tháng không đủ tiền
+boring,A,@A,7.0,1.0,True,7.0,xem phim mà không có cảm xúc gì luôn,xem phim không cảm xúc
+boring,A,@A,7.0,1.0,True,7.0,chán nản với cuộc sống công nghiệp này,cuộc sống công nghiệp chán nản
+boring,A,@A,7.0,1.0,True,7.0,lặp lại từ sáng tới tối không có gì thay đổi,lặp lại sáng tối không thay đổi
+sad,A,@A,2.0,1.0,True,2.0,học đại học càng ngày càng áp lực,học đại học áp lực
+sad,A,@A,2.0,1.0,True,2.0,thi hết môn mà cảm giác trống rỗng,thi hết môn cảm giác trống rỗng
+sad,A,@A,2.0,1.0,True,2.0,học mấy năm mà không biết sau này ra làm gì,học mấy năm không biết làm gì
+sad,A,@A,2.0,1.0,True,2.0,mọi người tốt nghiệp còn mình vẫn đang vật lộn,mọi người tốt nghiệp mình vật lộn
+sad,A,@A,2.0,1.0,True,2.0,nhìn bạn bè đi làm còn mình vẫn đang nợ môn,bạn bè đi làm mình nợ môn
+sad,A,@A,2.0,1.0,True,2.0,học phí tăng mà học chẳng thấy tương lai,học phí tăng không thấy tương lai
+sad,A,@A,2.0,1.0,True,2.0,học ngành này không phải điều mình muốn,học ngành không phải mình muốn
+sad,A,@A,2.0,1.0,True,2.0,lúc học thì áp lực lúc nghỉ thì lo sợ,lúc học áp lực lúc nghỉ lo sợ
+sad,A,@A,2.0,1.0,True,2.0,tôi sợ mình đang phí hoài tuổi trẻ ở giảng đường,sợ phí tuổi trẻ giảng đường
+sad,A,@A,2.0,1.0,True,2.0,cả tuần chỉ biết đi học rồi về phòng trọ,cả tuần chỉ học về phòng trọ
+sad,A,@A,2.0,1.0,True,2.0,đã mấy năm trôi qua mà vẫn chưa có con,mấy năm trôi qua chưa có con
+sad,A,@A,2.0,1.0,True,2.0,mỗi lần nhìn bạn bè khoe con là lại chạnh lòng,nhìn bạn bè khoe con chạnh lòng
+sad,A,@A,2.0,1.0,True,2.0,đi khám nhiều nơi mà vẫn chưa có tin vui,khám nhiều nơi chưa có tin vui
+sad,A,@A,2.0,1.0,True,2.0,mẹ chồng cứ hỏi mà không biết trả lời sao,mẹ chồng hỏi không biết trả lời
+sad,A,@A,2.0,1.0,True,2.0,chồng thì an ủi nhưng mình thấy có lỗi,chồng an ủi nhưng thấy có lỗi
+sad,A,@A,2.0,1.0,True,2.0,mỗi lần đến ngày lại hy vọng rồi thất vọng,mỗi lần hy vọng rồi thất vọng
+sad,A,@A,2.0,1.0,True,2.0,muốn có tiếng khóc trẻ thơ trong nhà lắm rồi,muốn tiếng khóc trẻ thơ trong nhà
+sad,A,@A,2.0,1.0,True,2.0,tự trách mình sao chưa thể làm mẹ,tự trách mình chưa làm mẹ
+sad,A,@A,2.0,1.0,True,2.0,đêm nào cũng nằm trằn trọc nghĩ về chuyện con cái,đêm trằn trọc nghĩ chuyện con cái
+sad,A,@A,2.0,1.0,True,2.0,đôi khi thấy mình thật vô dụng,thấy mình vô dụng
+sad,A,@A,2.0,1.0,True,2.0,ba mẹ giờ đã già mà mình chưa làm gì cho họ,ba mẹ già mình chưa làm gì
+sad,A,@A,2.0,1.0,True,2.0,mỗi lần về quê thấy ba mẹ yếu hơn lại buồn,về quê thấy ba mẹ yếu lại buồn
+sad,A,@A,2.0,1.0,True,2.0,lưng cha còng đi nhiều lắm rồi,lưng cha còng nhiều rồi
+sad,A,@A,2.0,1.0,True,2.0,mẹ đi chậm hẳn đi từng bước một,mẹ đi chậm từng bước
+sad,A,@A,2.0,1.0,True,2.0,muốn dành thời gian cho ba mẹ nhiều hơn,muốn dành thời gian cho ba mẹ
+sad,A,@A,2.0,1.0,True,2.0,sợ một ngày nào đó không còn kịp nữa,sợ một ngày không còn kịp
+sad,A,@A,2.0,1.0,True,2.0,mỗi lần nghe tiếng ho của mẹ là thấy lo,nghe tiếng ho mẹ thấy lo
+sad,A,@A,2.0,1.0,True,2.0,ba mẹ ngày xưa cực khổ nuôi mình giờ chỉ mong báo đáp,ba mẹ cực khổ mong báo đáp
+sad,A,@A,2.0,1.0,True,2.0,cuộc sống cứ cuốn đi mà quên mất ba mẹ đang già đi,cuộc sống cuốn đi ba mẹ già đi
+sad,A,@A,2.0,1.0,True,2.0,thấy ba ngồi một mình trong sân lòng chùng xuống,thấy ba ngồi một mình lòng chùng xuống
+sad,A,@A,2.0,1.0,True,2.0,con chưa làm được gì mà ba mẹ đã già rồi,con chưa làm được ba mẹ già rồi
+sad,A,@A,2.0,1.0,True,2.0,mỗi lần nghĩ đến tuổi già của mẹ là lại rơi nước mắt,nghĩ tuổi già mẹ rơi nước mắt
+sad,A,@A,2.0,1.0,True,2.0,thấy tóc cha bạc nhiều quá rồi,thấy tóc cha bạc nhiều
+sad,A,@A,2.0,1.0,True,2.0,càng lớn càng thấy thời gian bên cha mẹ ít lại,càng lớn thời gian bên cha mẹ ít
+sad,A,@A,2.0,1.0,True,2.0,nhiều lúc muốn bỏ hết để về quê chăm cha mẹ,muốn bỏ hết về quê chăm cha mẹ
+sad,A,@A,2.0,1.0,True,2.0,thấy mẹ lặng lẽ dọn dẹp mà lòng quặn thắt,mẹ lặng lẽ dọn dẹp lòng quặn thắt
+sad,A,@A,2.0,1.0,True,2.0,cuộc sống ở thành phố nhưng lòng luôn nhớ quê,cuộc sống thành phố lòng nhớ quê
+sad,A,@A,2.0,1.0,True,2.0,muốn làm nhiều hơn cho ba mẹ mà chưa có khả năng,muốn làm cho ba mẹ chưa có khả năng
+sad,A,@A,2.0,1.0,True,2.0,học hoài mà điểm vẫn thấp,học hoài điểm thấp
+sad,A,@A,2.0,1.0,True,2.0,mỗi kỳ thi là một nỗi lo,mỗi kỳ thi nỗi lo
+sad,A,@A,2.0,1.0,True,2.0,làm bài xong ra khỏi phòng thi là muốn khóc,làm bài xong muốn khóc
+sad,A,@A,2.0,1.0,True,2.0,mẹ gọi hỏi có mệt không mà không dám nói thật,mẹ gọi hỏi không dám nói thật
+sad,A,@A,2.0,1.0,True,2.0,tối nằm nghĩ không biết tương lai sẽ đi đâu,về tương lai sẽ đi đâu
+sad,A,@A,2.0,1.0,True,2.0,bạn bè đều có gia đình nhỏ còn mình vẫn đơn độc,bạn bè có gia đình mình đơn độc
+sad,A,@A,2.0,1.0,True,2.0,nhiều lúc ước có đứa con để ôm vào lòng,ước có đứa con ôm vào lòng
+sad,A,@A,2.0,1.0,True,2.0,đi ngang tiệm đồ sơ sinh mà thấy chạnh lòng,ngang tiệm đồ sơ sinh chạnh lòng
+sad,A,@A,2.0,1.0,True,2.0,cha mẹ gọi điện mà mình chỉ biết dạ rồi khóc,cha mẹ gọi mình dạ rồi khóc
+sad,A,@A,2.0,1.0,True,2.0,muốn mạnh mẽ mà lại yếu đuối vô cùng,muốn mạnh mẽ lại yếu đuối
+sad,A,@A,2.0,1.0,True,2.0,thấy mẹ ngủ mà gương mặt đầy nếp nhăn,thấy mẹ ngủ gương mặt nếp nhăn
+sad,A,@A,2.0,1.0,True,2.0,mỗi ngày đi học là một ngày mỏi mệt,đi học một ngày mỏi mệt
+
