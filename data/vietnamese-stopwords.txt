@@ -67,7 +67,6 @@ bước khỏi
 bước tới
 bước đi
 bạn
-bản
 bản bộ
 bản riêng
 bản thân
@@ -117,17 +116,14 @@ bị vì
 bỏ
 bỏ bà
 bỏ cha
-bỏ cuộc
 bỏ không
 bỏ lại
 bỏ mình
 bỏ mất
-bỏ mẹ
 bỏ nhỏ
 bỏ quá
 bỏ ra
 bỏ riêng
-bỏ việc
 bỏ xa
 bỗng
 bỗng chốc
@@ -206,7 +202,6 @@ chuyển đạt
 chuyện
 chuẩn bị
 chành chạnh
-chí chết
 chính
 chính bản
 chính giữa
@@ -231,7 +226,6 @@ chăng chắc
 chăng nữa
 chơi
 chơi họ
-chưa
 chưa bao giờ
 chưa chắc
 chưa có
@@ -255,9 +249,6 @@ chẳng lẽ
 chẳng những
 chẳng nữa
 chẳng phải
-chết nỗi
-chết thật
-chết tiệt
 chỉ
 chỉ chính
 chỉ có
@@ -311,7 +302,6 @@ cuốn
 cuộc
 càng
 càng càng
-càng hay
 cá nhân
 các
 các cậu
@@ -409,7 +399,6 @@ cả tin
 cả ăn
 cả đến
 cảm thấy
-cảm ơn
 cấp
 cấp số
 cấp trực tiếp
@@ -532,7 +521,6 @@ gặp
 gặp khó khăn
 gặp phải
 gồm
-hay
 hay biết
 hay hay
 hay không
@@ -585,7 +573,6 @@ khoảng
 khoảng cách
 khoảng không
 khá
-khá tốt
 khác
 khác gì
 khác khác
@@ -597,8 +584,6 @@ khách
 khó
 khó biết
 khó chơi
-khó khăn
-khó làm
 khó mở
 khó nghe
 khó nghĩ
@@ -654,7 +639,6 @@ là cùng
 là là
 là nhiều
 là phải
-là thế nào
 là vì
 là ít
 làm
@@ -665,7 +649,6 @@ làm gì
 làm lòng
 làm lại
 làm lấy
-làm mất
 làm ngay
 làm như
 làm nên
@@ -673,7 +656,6 @@ làm ra
 làm riêng
 làm sao
 làm theo
-làm thế nào
 làm tin
 làm tôi
 làm tăng
@@ -774,7 +756,6 @@ mà thôi
 mà vẫn
 mình
 mạnh
-mất
 mất còn
 mọi
 mọi giờ
@@ -801,7 +782,6 @@ một số
 một vài
 một ít
 mới
-mới hay
 mới rồi
 mới đây
 mở
@@ -931,12 +911,10 @@ như quả
 như sau
 như thường
 như thế
-như thế nào
 như thể
 như trên
 như trước
 như tuồng
-như vậy
 như ý
 nhưng
 nhưng mà
@@ -1055,7 +1033,6 @@ nếu không
 nếu mà
 nếu như
 nếu thế
-nếu vậy
 nếu được
 nền
 nọ
@@ -1207,12 +1184,6 @@ sang
 sang năm
 sang sáng
 sang tay
-sao
-sao bản
-sao bằng
-sao cho
-sao vậy
-sao đang
 sau
 sau chót
 sau cuối
@@ -1315,7 +1286,6 @@ thì phải
 thì ra
 thì thôi
 thình lình
-thích
 thích cứ
 thích thuộc
 thích tự
@@ -1365,8 +1335,6 @@ thế chuẩn bị
 thế là
 thế lại
 thế mà
-thế nào
-thế nên
 thế ra
 thế sự
 thế thì
@@ -1801,7 +1769,6 @@ yêu cầu
 đây rồi
 đây đó
 đã
-đã hay
 đã không
 đã là
 đã lâu
