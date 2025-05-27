@@ -587,10 +587,8 @@ khó chơi
 khó mở
 khó nghe
 khó nghĩ
-khó nói
 khó thấy
 khó tránh
-không
 không ai
 không bao giờ
 không bao lâu
@@ -605,7 +603,6 @@ không cần
 không cứ
 không dùng
 không gì
-không hay
 không khỏi
 không kể
 không ngoài
