@@ -3,8 +3,10 @@ import joblib
 
 class NaiveBayes:
 
-    def __init__(self):
-        self.preprocessor = sw.Preprocessor()
+    def __init__(self, preprocessor: sw.Preprocessor):
+        if preprocessor is None:
+            preprocessor = sw.Preprocessor()
+        self.preprocessor = preprocessor
         self.labels = [
             "NEUTRAL",
             "HAPPY",
