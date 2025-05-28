@@ -61,6 +61,12 @@ document.getElementById('analyze-btn').addEventListener('click', async function 
    } else {
       document.getElementById('title').innerText = "No title found";
    }
+
+   // remove the transparent from the #result-container
+   document.getElementById('result-container').classList.remove('transparent');
+
+   document.getElementById('inspect').innerHTML = generateInspect(data.data, 10);
+   document.getElementById('inspect').classList.remove('transparent');
 });
 
 
@@ -148,6 +154,33 @@ function createSpan(label, percentage) {
    return `<span class="emotion-span" style="background-color: ${COLORS[label] || '#eee'};">${label}: ${percentage}%</span>`;
 }
 
-function viewResult(result) {
+function textSpan(text, bgColor, txtColor) {
+   return `<span class="emotion-span" style="background-color: ${bgColor}; color: ${txtColor};">${text}</span>`;
+}
 
+function generateInspect(data, length) {
+   // Randomly get a subset of data for inspection
+   // data is a dictionary with keys of raw_comments, lstm, naive-bayes, llm each is a list
+   let randomIDs = [];
+   while (randomIDs.length < length) {
+      let randomID = Math.floor(Math.random() * data.raw_comments.length);
+      if (!randomIDs.includes(randomID)) {
+         randomIDs.push(randomID);
+      }
+   }
+
+
+   let inspectHTML = '';
+   randomIDs.forEach(id => {
+      inspectHTML += `<div class="inspect-item">
+         ${textSpan(data.commentor[id], "#696969", "#fff")}
+         <p>${data.raw_comments[id]}</p>
+         <div>
+         ${textSpan('LSTM: ' + data.lstm[id], COLORS[data.lstm[id]] || '#eee', '#000')}
+         ${textSpan('Naive Bayes: ' + data['naive-bayes'][id], COLORS[data['naive-bayes'][id]] || '#eee', '#000')}
+         ${textSpan('LLM: ' + data.llm[id], COLORS[data.llm[id]] || '#eee', '#000')}
+         </div>
+      </div>`;
+   });
+   return inspectHTML;
 }

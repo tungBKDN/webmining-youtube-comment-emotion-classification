@@ -148,3 +148,20 @@ body {
 	margin-bottom: 1rem;
 	transition: all 0.3s ease;
 }
+
+.transparent {
+	opacity: 0.0;
+}
+
+.inspect-item {
+	gap: 0.75rem;
+	margin-bottom: 1.4rem;
+}
+
+p {
+	margin: 0.25rem;
+	padding: 0;
+	font-size: 1rem;
+	color: #333;
+	transition: all 0.3s ease;
+}
