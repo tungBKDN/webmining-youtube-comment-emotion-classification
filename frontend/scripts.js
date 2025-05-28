@@ -10,6 +10,8 @@ COLORS = {
 }
 
 document.getElementById('analyze-btn').addEventListener('click', async function () {
+   // clear error-container
+   document.getElementById('error-container').innerHTML = '';
    document.getElementById('result-loading').classList.remove('hidden');
    // Start the fetch request
    let data = await query(`http://localhost:5000/classify/${document.getElementById('youtube-link').value}`, {
@@ -22,7 +24,7 @@ document.getElementById('analyze-btn').addEventListener('click', async function 
    if (data.status === 200) {
       // Success: handle the response data
       // Example: display result
-      annouceDisplay("Success", 'green');
+      // annouceDisplay("Success", 'green');
    } else if (data.status === 404) {
       // Not found: handle accordingly
       annouceDisplay("404: Not found", 'red');

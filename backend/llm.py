@@ -28,7 +28,36 @@ class LLMModel:
         print("Predicted emotion label:", predictions.item())
 
     def batch_predict(self, texts):
-        encodings = self.tokenizer(texts, truncation=True, padding=True, return_tensors="pt")
+        # Ensure input is truncated to the model's max_length and tokenizer matches model
+        max_length = self.tokenizer.model_max_length if hasattr(self.tokenizer, "model_max_length") else 512
+        valid_texts = []
+        for text in texts:
+            try:
+                enc = self.tokenizer(
+                    text,
+                    truncation=True,
+                    padding=True,
+                    max_length=max_length,
+                    return_tensors="pt"
+                )
+                # Try a forward pass to check for errors
+                enc = {k: v.to(self.model.device) for k, v in enc.items()}
+                with torch.no_grad():
+                    _ = self.model(**enc)
+                valid_texts.append(text)
+            except Exception as e:
+                print(f"Skipping text due to error: {e}\nText: {text}")
+
+        if not valid_texts:
+            return []
+
+        encodings = self.tokenizer(
+            valid_texts,
+            truncation=True,
+            padding=True,
+            max_length=max_length,
+            return_tensors="pt"
+        )
         encodings = {k: v.to(self.model.device) for k, v in encodings.items()}
         outputs = self.model(**encodings)
         predictions = torch.argmax(outputs.logits, dim=-1)
