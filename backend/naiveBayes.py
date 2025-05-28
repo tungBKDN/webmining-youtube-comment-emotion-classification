@@ -12,7 +12,7 @@ class NaiveBayes:
             "HAPPY",
             "SAD",
             "ANGRY",
-            "SUPRISED",
+            "SURPRISED",
             "SCARED",
             "CURIOUS",
             "BORING"

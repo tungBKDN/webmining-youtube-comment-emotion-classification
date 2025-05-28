@@ -14,7 +14,7 @@ class LSTMModel:
             "HAPPY",
             "SAD",
             "ANGRY",
-            "SUPRISED",
+            "SURPRISED",
             "SCARED",
             "CURIOUS",
             "BORING"
