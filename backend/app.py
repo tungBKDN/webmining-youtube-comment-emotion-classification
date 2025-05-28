@@ -6,9 +6,13 @@ from lstm import LSTMModel
 from llm import LLMModel
 from youtubeapi import YoutubeAPI
 import pandas as pd
+from flask_cors import CORS
+
 
 print("[INFO] Initializing Flask app and models...")
 app = Flask(__name__)
+CORS(app, origins="*")
+
 print("[INFO] Loading models...")
 preprocessor = Preprocessor()
 print("[INFO] Preprocessor loaded successfully.")
@@ -41,7 +45,7 @@ def classify(youtube_id):
         "title": video_title,
         "commentor": [comment['author'] for comment in comments],
         "raw_comments": raw_comments,
-        "naive_bayes": nb,
+        "naive-bayes": nb,
         "lstm": lstm,
         "llm": llm
     }
