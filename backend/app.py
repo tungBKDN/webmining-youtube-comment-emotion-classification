@@ -3,12 +3,13 @@ from flask import request, jsonify
 from naiveBayes import NaiveBayes
 from preprocessor import Preprocessor
 from lstm import LSTMModel
+from llm import LLMModel
 
 app = Flask(__name__)
 preprocessor = Preprocessor()
 naiveBayes : NaiveBayes = NaiveBayes(preprocessor)
 lstmModel : LSTMModel = LSTMModel(preprocessor)
-
+llmModel : LLMModel = LLMModel()
 
 @app.route('/')
 def hello():
@@ -23,9 +24,11 @@ def classify():
     # Naive Bayes classification
     nb = naiveBayes.batch_predict(comments)
     lstm = lstmModel.batch_predict(comments)
+    llm = llmModel.batch_predict(comments)
     _json = {
         "raw_comments": comments,
         "naive_bayes": nb,
-        "lstm": lstm
+        "lstm": lstm,
+        "llm": llm
     }
     return jsonify(_json)
